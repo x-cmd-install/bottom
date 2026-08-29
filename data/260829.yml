@@ -1,0 +1,58 @@
+about:
+  description: Yet another cross-platform graphical process/system monitor.
+  license: MIT
+  homepage: https://bottom.pages.dev
+  head: 3066c95
+  archived: false
+  latestVersion: nightly-3066c959-1787964591
+  collectedAt: 2026-08-29T07:27:41Z
+timeline:
+  created: 2019-08-28
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-29
+popularity:
+  star: 13946
+  watcher: 51
+  fork: 381
+  release: 73
+  contributor: 87
+  pullRequest: 85
+  issue: 488
+language:
+  Rust: 1360942
+  Python: 4141
+  Shell: 1906
+totalLine: 1366989
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 5
+    mergedPR: 32
+    openPR: 1
+    closedIssue: 4
+    openIssue: 0
+    commit: 32
+  last90d:
+    since: 2026-05-31
+    release: 14
+    mergedPR: 111
+    openPR: 3
+    closedIssue: 12
+    openIssue: 1
+    commit: 113
+  last180d:
+    since: 2026-03-02
+    release: 14
+    mergedPR: 180
+    openPR: 4
+    closedIssue: 19
+    openIssue: 5
+    commit: 185
+  last360d:
+    since: 2025-09-03
+    release: 21
+    mergedPR: 326
+    openPR: 6
+    closedIssue: 37
+    openIssue: 7
+    commit: 330
