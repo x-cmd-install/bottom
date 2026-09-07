@@ -5,19 +5,19 @@ about:
   head: b77d317
   archived: false
   latestVersion: "nightly-6323bef6-1788742776"
-  collectedAt: 2026-09-07T04:41:54Z
+  collectedAt: 2026-09-07T19:46:45Z
 timeline:
   created: 2019-08-28
   lastCommit: 2026-09-07
   lastRelease: 2026-09-07
 popularity:
-  star: 13984
+  star: 13990
   watcher: 53
-  fork: 381
+  fork: 382
   release: 73
   contributor: 86
   pullRequest: 1668
-  issue: 489
+  issue: 490
 language:
   Rust: 1382931
   Python: 4141
@@ -30,7 +30,7 @@ recent:
     mergedPR: 39
     openPR: 2
     closedIssue: 5
-    openIssue: 0
+    openIssue: 1
     commit: 33
   last60d:
     since: 2026-07-09
@@ -38,7 +38,7 @@ recent:
     mergedPR: 73
     openPR: 3
     closedIssue: 10
-    openIssue: 0
+    openIssue: 1
     commit: 66
   last90d:
     since: 2026-06-09
@@ -46,7 +46,7 @@ recent:
     mergedPR: 122
     openPR: 4
     closedIssue: 13
-    openIssue: 1
+    openIssue: 2
     commit: 124
   last180d:
     since: 2026-03-11
@@ -54,7 +54,7 @@ recent:
     mergedPR: 189
     openPR: 5
     closedIssue: 20
-    openIssue: 5
+    openIssue: 6
     commit: 191
   last360d:
     since: 2025-09-12
@@ -62,7 +62,7 @@ recent:
     mergedPR: 336
     openPR: 7
     closedIssue: 37
-    openIssue: 7
+    openIssue: 8
     commit: 336
   last720d:
     since: 2024-09-17
@@ -70,18 +70,18 @@ recent:
     mergedPR: 494
     openPR: 8
     closedIssue: 61
-    openIssue: 15
+    openIssue: 16
     commit: 495
 total:
   release: 73
   mergedPR: 1583
   openPR: 12
   closedIssue: 395
-  openIssue: 94
+  openIssue: 95
   commit: 2633
 ---
 path: /home/runner/.x-repo/github.com/ClementTsang/bottom
-collectedAt: 2026-09-07T04:42:03Z
+collectedAt: 2026-09-07T19:46:51Z
 loc:
   Rust:
     code: 31492
@@ -263,7 +263,7 @@ checks:
       - 'Warn: 28 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:42:04+00:00
+  collectedAt: 2026-09-07T19:46:51+00:00
   platform:
     darwin/arm64:
       name:  bottom_aarch64-apple-darwin.tar.gz
