@@ -5,13 +5,13 @@ about:
   head: b77d317
   archived: false
   latestVersion: "nightly-b77d3175-1788828889"
-  collectedAt: 2026-09-08T02:02:30Z
+  collectedAt: 2026-09-08T04:31:22Z
 timeline:
   created: 2019-08-28
   lastCommit: 2026-09-07
   lastRelease: 2026-09-08
 popularity:
-  star: 13993
+  star: 13995
   watcher: 53
   fork: 382
   release: 73
@@ -81,7 +81,7 @@ total:
   commit: 2633
 ---
 path: /home/runner/.x-repo/github.com/ClementTsang/bottom
-collectedAt: 2026-09-08T02:02:38Z
+collectedAt: 2026-09-08T04:31:30Z
 loc:
   Rust:
     code: 31492

@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1507180,
       "digest": "sha256:e8312526746c1190c3433e6ce0843f64c6e0c501003ee377552745c040dc6d56",
-      "download_count": 391,
+      "download_count": 395,
       "created_at": "2026-08-27T08:22:03Z",
       "updated_at": "2026-08-27T08:22:04Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_0.14.9-1_amd64.deb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1293500,
       "digest": "sha256:a2d5fb1500c2209ffe3ec8711fe551b3b41830fad7bbde9fa1e58ae87010b9e5",
-      "download_count": 82,
+      "download_count": 83,
       "created_at": "2026-08-27T08:22:03Z",
       "updated_at": "2026-08-27T08:22:04Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_0.14.9-1_arm64.deb"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1755361,
       "digest": "sha256:28358e19a3d62b3778fc0d1778b0028a682059145c9ac38ac5076bf124d77714",
-      "download_count": 821,
+      "download_count": 823,
       "created_at": "2026-08-27T08:22:04Z",
       "updated_at": "2026-08-27T08:22:04Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_aarch64-apple-darwin.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1897973,
       "digest": "sha256:a6a0a0dda426b31b2c72e15a26c7e97c2224aafdd66f60632e34ee464a64ec8f",
-      "download_count": 468,
+      "download_count": 475,
       "created_at": "2026-08-27T08:22:04Z",
       "updated_at": "2026-08-27T08:22:04Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_aarch64-unknown-linux-gnu.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 1926802,
       "digest": "sha256:01660721b0fdc72b191f2b27b78dc9a3087aeb7b3fad4a890c53870089d6b500",
-      "download_count": 1861,
+      "download_count": 1869,
       "created_at": "2026-08-27T08:22:05Z",
       "updated_at": "2026-08-27T08:22:06Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64-pc-windows-msvc.zip"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 2054330,
       "digest": "sha256:e0c325829e8bdcea25a8a7651da05dbb6f1fc109ac5d2f0187867d3d5d9c0df8",
-      "download_count": 2115,
+      "download_count": 2129,
       "created_at": "2026-08-27T08:22:06Z",
       "updated_at": "2026-08-27T08:22:06Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64-unknown-linux-gnu.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 2126967,
       "digest": "sha256:b4bee5b193e7d3f6e090ac14f0ca15acec2e7fe4ef64988e0bfc492e16c28c9a",
-      "download_count": 762,
+      "download_count": 766,
       "created_at": "2026-08-27T08:22:06Z",
       "updated_at": "2026-08-27T08:22:06Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64-unknown-linux-musl.tar.gz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 2252800,
       "digest": "sha256:4a1c79fc0ccca1178b6b5cba6150a8e470828ecd75d68f0b3bde626fa2dcfb2e",
-      "download_count": 1512,
+      "download_count": 1516,
       "created_at": "2026-08-27T08:22:06Z",
       "updated_at": "2026-08-27T08:22:06Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64_installer.msi"
