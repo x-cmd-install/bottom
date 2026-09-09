@@ -7,7 +7,7 @@ about:
   latestVersion: "nightly-b77d3175-1788828889"
   latestRelease: "0.14.9"
   latestPrerelease: "nightly-b77d3175-1788828889"
-  collectedAt: 2026-09-09T04:39:02Z
+  collectedAt: 2026-09-09T19:13:52Z
 timeline:
   created: 2019-08-28
   lastCommit: 2026-09-07
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 14005
   watcher: 53
-  fork: 382
+  fork: 383
   release: 73
   contributor: 86
   pullRequest: 1668
@@ -85,7 +85,7 @@ total:
   commit: 2633
 ---
 path: /home/runner/.x-repo/github.com/ClementTsang/bottom
-collectedAt: 2026-09-09T04:39:11Z
+collectedAt: 2026-09-09T19:13:59Z
 loc:
   Rust:
     code: 31492
