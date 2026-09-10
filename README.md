@@ -21,25 +21,64 @@ x install bottom
 ## Release
 
 - **Latest**: `nightly-b77d3175-1788828889` (2026-08-27)
-- **Last commit**: 2026-09-07
+- **Last commit**: 2026-09-10
 - **Assets in release**: 35
-- **Published**: 2026-08-27T08:24:00Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [bottom-0.14.9-1.x86_64.rpm](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom-0.14.9-1.x86_64.rpm) | 1.6 MiB | `runtime/rpm/x86_64` |
+| [bottom-musl-0.14.9-1.x86_64.rpm](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom-musl-0.14.9-1.x86_64.rpm) | 1.6 MiB | `runtime/rpm/x86_64` |
+| [bottom-musl_0.14.9-1_amd64.deb](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom-musl_0.14.9-1_amd64.deb) | 1.5 MiB | `runtime/deb/amd64` |
+| [bottom-musl_0.14.9-1_arm64.deb](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom-musl_0.14.9-1_arm64.deb) | 1.3 MiB | `runtime/deb/arm64` |
+| [bottom-musl_0.14.9-1_armhf.deb](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom-musl_0.14.9-1_armhf.deb) | 1.3 MiB | `runtime/deb/armhf` |
+| [bottom.desktop](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom.desktop) | 281 B | `other` |
+| [bottom_0.14.9-1_amd64.deb](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_0.14.9-1_amd64.deb) | 1.4 MiB | `runtime/deb/amd64` |
+| [bottom_0.14.9-1_arm64.deb](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_0.14.9-1_arm64.deb) | 1.2 MiB | `runtime/deb/arm64` |
+| [bottom_0.14.9-1_armhf.deb](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_0.14.9-1_armhf.deb) | 1.3 MiB | `runtime/deb/armhf` |
+| [bottom_aarch64-apple-darwin.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_aarch64-apple-darwin.tar.gz) | 1.7 MiB | `native/darwin/arm64` |
+| [bottom_aarch64-linux-android.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_aarch64-linux-android.tar.gz) | 1.7 MiB | `native/linux/arm64` |
+| [bottom_aarch64-pc-windows-msvc.zip](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_aarch64-pc-windows-msvc.zip) | 1.6 MiB | `native/win/arm64` |
+| [bottom_aarch64-unknown-linux-gnu.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_aarch64-unknown-linux-gnu.tar.gz) | 1.8 MiB | `native/linux/arm64/glibc` |
+| [bottom_aarch64-unknown-linux-musl.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_aarch64-unknown-linux-musl.tar.gz) | 1.8 MiB | `native/linux/arm64/musl` |
+| [bottom_aarch64_installer.msi](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_aarch64_installer.msi) | 1.9 MiB | `other` |
+| [bottom_armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_armv7-unknown-linux-gnueabihf.tar.gz) | 1.9 MiB | `native/linux/arm/glibc` |
+| [bottom_armv7-unknown-linux-musleabihf.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_armv7-unknown-linux-musleabihf.tar.gz) | 1.9 MiB | `native/linux/arm/musl` |
+| [bottom_i686-pc-windows-msvc.zip](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_i686-pc-windows-msvc.zip) | 1.7 MiB | `native/win/x64` |
+| [bottom_i686-unknown-linux-gnu.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_i686-unknown-linux-gnu.tar.gz) | 2.0 MiB | `native/linux/x86/glibc` |
+| [bottom_i686-unknown-linux-musl.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_i686-unknown-linux-musl.tar.gz) | 2.0 MiB | `native/linux/x86/musl` |
+| [bottom_loongarch64-unknown-linux-gnu.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_loongarch64-unknown-linux-gnu.tar.gz) | 1.9 MiB | `native/unknown` |
+| [bottom_powerpc64le-unknown-linux-gnu.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_powerpc64le-unknown-linux-gnu.tar.gz) | 2.1 MiB | `native/unknown` |
+| [bottom_riscv64gc-unknown-linux-gnu.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_riscv64gc-unknown-linux-gnu.tar.gz) | 1.9 MiB | `native/linux/riscv64/glibc` |
+| [bottom_x86_64-apple-darwin.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64-apple-darwin.tar.gz) | 1.8 MiB | `native/darwin/x64` |
+| [bottom_x86_64-pc-windows-gnu.zip](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64-pc-windows-gnu.zip) | 1.7 MiB | `native/win/x64` |
+| [bottom_x86_64-pc-windows-msvc.zip](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64-pc-windows-msvc.zip) | 1.8 MiB | `native/win/x64` |
+| [bottom_x86_64-unknown-freebsd.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64-unknown-freebsd.tar.gz) | 1.9 MiB | `native/linux/x64` |
+| [bottom_x86_64-unknown-linux-gnu-2-17.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64-unknown-linux-gnu-2-17.tar.gz) | 2.0 MiB | `native/linux/x64/glibc` |
+| [bottom_x86_64-unknown-linux-gnu.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64-unknown-linux-gnu.tar.gz) | 2.0 MiB | `native/linux/x64/glibc` |
+| [bottom_x86_64-unknown-linux-musl.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64-unknown-linux-musl.tar.gz) | 2.0 MiB | `native/linux/x64/musl` |
+| [bottom_x86_64-unknown-netbsd.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64-unknown-netbsd.tar.gz) | 1.9 MiB | `native/linux/x64` |
+| [bottom_x86_64_installer.msi](https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64_installer.msi) | 2.1 MiB | `other` |
+| [choco.zip](https://github.com/ClementTsang/bottom/releases/download/0.14.9/choco.zip) | 2.4 KiB | `other` |
+| [completion.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/completion.tar.gz) | 7.7 KiB | `native/unknown` |
+| [manpage.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/manpage.tar.gz) | 3.4 KiB | `native/unknown` |
 
 ## Popularity
 
-- **Stars**: 14,008 · **Forks**: 383 · **Open issues**: 490 · **Contributors**: 86
+- **Stars**: 14,012 · **Forks**: 384 · **Open issues**: 490 · **Contributors**: 86
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 1583 · **Open PRs**: 12 · **Closed issues**: 395 · **Open issues**: 95 · **Commits**: 2633
+- **Releases**: 73 · **Merged PRs**: 1584 · **Open PRs**: 13 · **Closed issues**: 396 · **Open issues**: 94 · **Commits**: 2634
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 39 | 2 | 5 | 1 | 33 |
-| 90d | 2026-06-12 | 14 | 122 | 3 | 13 | 2 | 124 |
-| 360d | 2025-09-15 | 21 | 333 | 7 | 37 | 8 | 336 |
+| 30d | 2026-08-11 | 5 | 40 | 3 | 6 | 0 | 34 |
+| 90d | 2026-06-12 | 14 | 123 | 4 | 14 | 1 | 125 |
+| 360d | 2025-09-15 | 21 | 334 | 8 | 38 | 7 | 337 |
 
 ## Code size
 
@@ -68,8 +107,8 @@ Lowest-scoring checks:
 Install metadata for bottom lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `bottom` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/bottom.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/bottom.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:43:56Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:22:56Z._
