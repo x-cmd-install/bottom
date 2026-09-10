@@ -12,6 +12,28 @@ Yet another cross-platform graphical process/system monitor.
 x install bottom
 ```
 
+## Code insight
+
+Total: **44,705** lines of code across **244** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 31,492 | 1,519 | 4,616 | 177 |
+| Json | 12,002 | 0 | 0 | 9 |
+| Toml | 637 | 438 | 222 | 52 |
+| Yaml | 195 | 11 | 7 | 2 |
+| Python | 157 | 6 | 35 | 4 |
+
+## OpenSSF Scorecard
+
+Overall score: **6.2 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
+
 ## Source
 
 - **Upstream**: <https://github.com/ClementTsang/bottom>
@@ -23,6 +45,25 @@ x install bottom
 - **Latest**: `nightly-b77d3175-1788828889` (2026-08-27)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 35
+
+## Popularity
+
+- **Stars**: 14,012 · **Forks**: 384 · **Open issues**: 490 · **Contributors**: 86
+
+## Totals (cumulative)
+
+- **Releases**: 73 · **Merged PRs**: 1584 · **Open PRs**: 14 · **Closed issues**: 396 · **Open issues**: 94 · **Commits**: 2634
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 5 | 40 | 4 | 6 | 0 | 34 |
+| last60d | 2026-07-12 | 8 | 69 | 5 | 11 | 0 | 67 |
+| 90d | 2026-06-12 | 14 | 123 | 5 | 14 | 1 | 125 |
+| last180d | 2026-03-14 | 14 | 188 | 7 | 20 | 5 | 192 |
+| 360d | 2025-09-15 | 21 | 334 | 9 | 38 | 7 | 337 |
+| last720d | 2024-09-20 | 23 | 495 | 10 | 62 | 15 | 496 |
 
 ## Release assets
 
@@ -64,43 +105,22 @@ x install bottom
 | [completion.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/completion.tar.gz) | 7.7 KiB | `native/unknown` |
 | [manpage.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/manpage.tar.gz) | 3.4 KiB | `native/unknown` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 14,012 · **Forks**: 384 · **Open issues**: 490 · **Contributors**: 86
+Reported by **217** distros on [repology.org](https://repology.org/project/bottom). **25** are ✅ on the latest upstream release, **144** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 73 · **Merged PRs**: 1584 · **Open PRs**: 13 · **Closed issues**: 396 · **Open issues**: 94 · **Commits**: 2634
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 40 | 3 | 6 | 0 | 34 |
-| 90d | 2026-06-12 | 14 | 123 | 4 | 14 | 1 | 125 |
-| 360d | 2025-09-15 | 21 | 334 | 8 | 38 | 7 | 337 |
-
-## Code size
-
-Total: **44,705** lines of code across **244** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 31,492 | 1,519 | 4,616 | 177 |
-| Json | 12,002 | 0 | 0 | 9 |
-| Toml | 637 | 438 | 222 | 52 |
-| Yaml | 195 | 11 | 7 | 2 |
-| Python | 157 | 6 | 35 | 4 |
-
-## OpenSSF Scorecard
-
-Overall score: **6.2 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.14.9+~0.1.0` | incorrect |
+| Debian 14 | `0.14.9+~0.1.0` | incorrect |
+| Debian 13 | `0.10.2+20250107` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `0.9.6` | ⚠️ outdated |
+| Arch | `0.14.9` | ✅ latest |
+| Homebrew | `0.14.9` | ✅ latest |
+| Nix unstable | `0.14.9` | ✅ latest |
+| Void | `0.12.3` | ⚠️ outdated |
+| Alpine edge | `0.14.8` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.14.7` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -111,4 +131,4 @@ Install metadata for bottom lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:22:56Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:06:15Z._
