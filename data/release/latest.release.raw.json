@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1644023,
       "digest": "sha256:04e2e2f66f9db42face25238123eebaef7b417416325e658c6ceb6fe99ffea33",
-      "download_count": 162,
+      "download_count": 169,
       "created_at": "2026-08-27T08:22:03Z",
       "updated_at": "2026-08-27T08:22:03Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom-0.14.9-1.x86_64.rpm"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1562380,
       "digest": "sha256:e20f94a45a6da1b399d3c784e36238cd30b3b4b7cbfa0c271d43b1590222edf1",
-      "download_count": 174,
+      "download_count": 176,
       "created_at": "2026-08-27T08:22:03Z",
       "updated_at": "2026-08-27T08:22:03Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom-musl_0.14.9-1_amd64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1321404,
       "digest": "sha256:fa9f3fc5a26de3f5197f3168117582b1cadc8867423c264df924ab91c0101d6f",
-      "download_count": 89,
+      "download_count": 91,
       "created_at": "2026-08-27T08:22:03Z",
       "updated_at": "2026-08-27T08:22:03Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom-musl_0.14.9-1_arm64.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 281,
       "digest": "sha256:96cf910d1a179f6a1112eded1cb9834f9cbcb29ef837ea07bd328d1ff9558340",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-08-27T08:22:03Z",
       "updated_at": "2026-08-27T08:22:04Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom.desktop"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1507180,
       "digest": "sha256:e8312526746c1190c3433e6ce0843f64c6e0c501003ee377552745c040dc6d56",
-      "download_count": 468,
+      "download_count": 478,
       "created_at": "2026-08-27T08:22:03Z",
       "updated_at": "2026-08-27T08:22:04Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_0.14.9-1_amd64.deb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1293500,
       "digest": "sha256:a2d5fb1500c2209ffe3ec8711fe551b3b41830fad7bbde9fa1e58ae87010b9e5",
-      "download_count": 118,
+      "download_count": 119,
       "created_at": "2026-08-27T08:22:03Z",
       "updated_at": "2026-08-27T08:22:04Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_0.14.9-1_arm64.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1338456,
       "digest": "sha256:21c43639fdd0ef11a435c52759ade13c21211e8f26618a0e58ea305e1f7687f2",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-08-27T08:22:03Z",
       "updated_at": "2026-08-27T08:22:04Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_0.14.9-1_armhf.deb"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1755361,
       "digest": "sha256:28358e19a3d62b3778fc0d1778b0028a682059145c9ac38ac5076bf124d77714",
-      "download_count": 908,
+      "download_count": 930,
       "created_at": "2026-08-27T08:22:04Z",
       "updated_at": "2026-08-27T08:22:04Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_aarch64-apple-darwin.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1736275,
       "digest": "sha256:ab0962167505b8a56d7852952e17f1afeeb83f79ca21b5509ff0ba98c6ac4da1",
-      "download_count": 63,
+      "download_count": 68,
       "created_at": "2026-08-27T08:22:04Z",
       "updated_at": "2026-08-27T08:22:04Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_aarch64-linux-android.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 1720657,
       "digest": "sha256:fabe9fc4850d12917150295900119eaa5455724658d1d709e013cacdc0390349",
-      "download_count": 97,
+      "download_count": 99,
       "created_at": "2026-08-27T08:22:04Z",
       "updated_at": "2026-08-27T08:22:04Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_aarch64-pc-windows-msvc.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1897973,
       "digest": "sha256:a6a0a0dda426b31b2c72e15a26c7e97c2224aafdd66f60632e34ee464a64ec8f",
-      "download_count": 540,
+      "download_count": 556,
       "created_at": "2026-08-27T08:22:04Z",
       "updated_at": "2026-08-27T08:22:04Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_aarch64-unknown-linux-gnu.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1918659,
       "digest": "sha256:7b6d532f6a6af356970f4e8d7d3a792590485aa4a53ebf038e10d20366125533",
-      "download_count": 141,
+      "download_count": 143,
       "created_at": "2026-08-27T08:22:04Z",
       "updated_at": "2026-08-27T08:22:04Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_aarch64-unknown-linux-musl.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 2039808,
       "digest": "sha256:0c919bc21876463e27613de19694dd439cd0b815f760c7bfc28b7ff08a528a14",
-      "download_count": 110,
+      "download_count": 112,
       "created_at": "2026-08-27T08:22:04Z",
       "updated_at": "2026-08-27T08:22:04Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_aarch64_installer.msi"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 1901583,
       "digest": "sha256:d0b1d446963ee3c4dfbfe2efd9614cfdc77f39e8268bf8cc2e0b5b6cea982774",
-      "download_count": 254,
+      "download_count": 260,
       "created_at": "2026-08-27T08:22:05Z",
       "updated_at": "2026-08-27T08:22:05Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64-apple-darwin.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 1803672,
       "digest": "sha256:fdff5b07cbbe4da1c96a8278c4c87585c7a19813b76fb99fed69bd2b9d0cf293",
-      "download_count": 182,
+      "download_count": 188,
       "created_at": "2026-08-27T08:22:05Z",
       "updated_at": "2026-08-27T08:22:06Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64-pc-windows-gnu.zip"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 1926802,
       "digest": "sha256:01660721b0fdc72b191f2b27b78dc9a3087aeb7b3fad4a890c53870089d6b500",
-      "download_count": 2037,
+      "download_count": 2083,
       "created_at": "2026-08-27T08:22:05Z",
       "updated_at": "2026-08-27T08:22:06Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64-pc-windows-msvc.zip"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 2064431,
       "digest": "sha256:15774bae02e251e652f438a07a309ffbcb1b4e5fb60a21031608155009b3bba7",
-      "download_count": 151,
+      "download_count": 158,
       "created_at": "2026-08-27T08:22:06Z",
       "updated_at": "2026-08-27T08:22:06Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64-unknown-linux-gnu-2-17.tar.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 2054330,
       "digest": "sha256:e0c325829e8bdcea25a8a7651da05dbb6f1fc109ac5d2f0187867d3d5d9c0df8",
-      "download_count": 2418,
+      "download_count": 2482,
       "created_at": "2026-08-27T08:22:06Z",
       "updated_at": "2026-08-27T08:22:06Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64-unknown-linux-gnu.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 2126967,
       "digest": "sha256:b4bee5b193e7d3f6e090ac14f0ca15acec2e7fe4ef64988e0bfc492e16c28c9a",
-      "download_count": 853,
+      "download_count": 865,
       "created_at": "2026-08-27T08:22:06Z",
       "updated_at": "2026-08-27T08:22:06Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64-unknown-linux-musl.tar.gz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 2252800,
       "digest": "sha256:4a1c79fc0ccca1178b6b5cba6150a8e470828ecd75d68f0b3bde626fa2dcfb2e",
-      "download_count": 1692,
+      "download_count": 1729,
       "created_at": "2026-08-27T08:22:06Z",
       "updated_at": "2026-08-27T08:22:06Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64_installer.msi"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 7884,
       "digest": "sha256:9faff2df2cb37d96f5229b041c49032a8af74f6e5a064b7caad1f5231ad694d5",
-      "download_count": 47,
+      "download_count": 49,
       "created_at": "2026-08-27T08:22:06Z",
       "updated_at": "2026-08-27T08:22:06Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/completion.tar.gz"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 3499,
       "digest": "sha256:b244f0a6b2e5a6a53249c080540703c2aa44f3690cbfa7e4ccce9fe4bb926e5c",
-      "download_count": 50,
+      "download_count": 52,
       "created_at": "2026-08-27T08:22:06Z",
       "updated_at": "2026-08-27T08:22:07Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/manpage.tar.gz"
@@ -1302,13 +1302,13 @@
   "body": "A small update with a new feature (an option to show zeroed total network usage on startup) and some bug fixes.\r\n\r\n---\r\n\r\n## Bug Fixes\r\n\r\n- [#2207](https://github.com/ClementTsang/bottom/pull/2207): Fix typo in `--help` flag (thanks @Oseryx!)\r\n- [#2210](https://github.com/ClementTsang/bottom/pull/2210): Fix handling Linux cmdline values that don't have null byte separators (thanks @fxzzi!)\r\n\r\n## Features\r\n\r\n- [#2199](https://github.com/ClementTsang/bottom/pull/2199): Add option to show zeroed total network usage on startup\r\n\r\n## New Contributors\r\n* @Oseryx made their first contribution in https://github.com/ClementTsang/bottom/pull/2207\r\n* @fxzzi made their first contribution in https://github.com/ClementTsang/bottom/pull/2210\r\n\r\n---\r\n\r\n**Full Changelog**: https://github.com/ClementTsang/bottom/compare/0.14.8...0.14.9",
   "reactions": {
     "url": "https://api.github.com/repos/ClementTsang/bottom/releases/377665124/reactions",
-    "total_count": 2,
+    "total_count": 3,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
     "hooray": 1,
     "confused": 0,
-    "heart": 1,
+    "heart": 2,
     "rocket": 0,
     "eyes": 0
   },
