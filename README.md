@@ -30,9 +30,9 @@ Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/28 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,012 · **Forks**: 384 · **Open issues**: 490 · **Contributors**: 86
+- **Stars**: 14,019 · **Forks**: 384 · **Open issues**: 490 · **Contributors**: 86
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 1587 · **Open PRs**: 12 · **Closed issues**: 397 · **Open issues**: 93 · **Commits**: 2637
+- **Releases**: 73 · **Merged PRs**: 1587 · **Open PRs**: 13 · **Closed issues**: 397 · **Open issues**: 93 · **Commits**: 2637
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 4 | 37 | 3 | 3 | 0 | 37 |
-| last60d | 2026-07-15 | 8 | 68 | 4 | 10 | 0 | 70 |
-| 90d | 2026-06-15 | 14 | 126 | 4 | 14 | 1 | 128 |
-| last180d | 2026-03-17 | 14 | 191 | 6 | 19 | 4 | 195 |
-| 360d | 2025-09-18 | 21 | 336 | 7 | 38 | 7 | 340 |
-| last720d | 2024-09-23 | 23 | 497 | 8 | 61 | 15 | 498 |
+| 30d | 2026-08-15 | 4 | 36 | 4 | 3 | 0 | 32 |
+| last60d | 2026-07-16 | 8 | 68 | 5 | 10 | 0 | 57 |
+| 90d | 2026-06-16 | 14 | 126 | 5 | 14 | 1 | 112 |
+| last180d | 2026-03-18 | 14 | 191 | 7 | 19 | 3 | 192 |
+| 360d | 2025-09-19 | 21 | 336 | 8 | 38 | 7 | 338 |
+| last720d | 2024-09-24 | 23 | 497 | 9 | 61 | 15 | 498 |
 
 ## Release assets
 
@@ -105,23 +105,6 @@ Lowest-scoring checks:
 | [completion.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/completion.tar.gz) | 7.7 KiB | `native/unknown` |
 | [manpage.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/manpage.tar.gz) | 3.4 KiB | `native/unknown` |
 
-## Distribution status
-
-Reported by **217** distros on [repology.org](https://repology.org/project/bottom). **25** are ✅ on the latest upstream release, **144** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.14.9+~0.1.0` | incorrect |
-| Debian 14 | `0.14.9+~0.1.0` | incorrect |
-| Debian 13 | `0.10.2+20250107` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.9.6` | ⚠️ outdated |
-| Arch | `0.14.9` | ✅ latest |
-| Homebrew | `0.14.9` | ✅ latest |
-| Nix unstable | `0.14.9` | ✅ latest |
-| Void | `0.12.3` | ⚠️ outdated |
-| Alpine edge | `0.14.8` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.14.7` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for bottom lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `bottom` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -131,4 +114,4 @@ Install metadata for bottom lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:53:41Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:52:18Z._
