@@ -4,7 +4,7 @@
 
 Yet another cross-platform graphical process/system monitor.
 
-![bottom](https://repo.x-cmd.io/bottom.svg)
+[![x-cmd/install — bottom Code Quality Monitoring Repo Card](https://repo.x-cmd.io/bottom.svg)](https://x-cmd.com/install/bottom)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,031 · **Forks**: 385 · **Open issues**: 490 · **Contributors**: 87
+- **Stars**: 14,035 · **Forks**: 385 · **Open issues**: 492 · **Contributors**: 87
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 1594 · **Open PRs**: 11 · **Closed issues**: 398 · **Open issues**: 92 · **Commits**: 2644
+- **Releases**: 73 · **Merged PRs**: 1594 · **Open PRs**: 11 · **Closed issues**: 398 · **Open issues**: 94 · **Commits**: 2644
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 4 | 40 | 2 | 3 | 0 | 39 |
-| last60d | 2026-07-20 | 7 | 64 | 3 | 8 | 0 | 64 |
-| 90d | 2026-06-20 | 14 | 122 | 3 | 13 | 0 | 119 |
-| last180d | 2026-03-22 | 14 | 195 | 5 | 20 | 2 | 199 |
-| 360d | 2025-09-23 | 21 | 342 | 6 | 39 | 6 | 345 |
-| last720d | 2024-09-28 | 23 | 504 | 7 | 61 | 14 | 505 |
+| 30d | 2026-08-21 | 4 | 38 | 2 | 3 | 2 | 39 |
+| last60d | 2026-07-22 | 6 | 63 | 3 | 8 | 2 | 64 |
+| 90d | 2026-06-22 | 12 | 118 | 3 | 13 | 2 | 119 |
+| last180d | 2026-03-24 | 14 | 195 | 5 | 20 | 4 | 199 |
+| 360d | 2025-09-25 | 21 | 338 | 6 | 37 | 8 | 345 |
+| last720d | 2024-09-30 | 23 | 504 | 7 | 61 | 16 | 505 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for bottom lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:41:11Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:56:33Z._
