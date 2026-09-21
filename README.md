@@ -30,7 +30,7 @@ Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/28 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/29 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,035 · **Forks**: 385 · **Open issues**: 492 · **Contributors**: 87
+- **Stars**: 14,038 · **Forks**: 386 · **Open issues**: 493 · **Contributors**: 87
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 1594 · **Open PRs**: 11 · **Closed issues**: 398 · **Open issues**: 94 · **Commits**: 2644
+- **Releases**: 73 · **Merged PRs**: 1594 · **Open PRs**: 11 · **Closed issues**: 398 · **Open issues**: 95 · **Commits**: 2644
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 4 | 38 | 2 | 3 | 2 | 39 |
-| last60d | 2026-07-22 | 6 | 63 | 3 | 8 | 2 | 64 |
-| 90d | 2026-06-22 | 12 | 118 | 3 | 13 | 2 | 119 |
-| last180d | 2026-03-24 | 14 | 195 | 5 | 20 | 4 | 199 |
-| 360d | 2025-09-25 | 21 | 338 | 6 | 37 | 8 | 345 |
-| last720d | 2024-09-30 | 23 | 504 | 7 | 61 | 16 | 505 |
+| 30d | 2026-08-22 | 4 | 38 | 2 | 3 | 3 | 24 |
+| last60d | 2026-07-23 | 6 | 62 | 3 | 8 | 3 | 56 |
+| 90d | 2026-06-23 | 11 | 117 | 3 | 13 | 3 | 107 |
+| last180d | 2026-03-25 | 14 | 195 | 5 | 20 | 5 | 199 |
+| 360d | 2025-09-26 | 21 | 338 | 6 | 37 | 9 | 341 |
+| last720d | 2024-10-01 | 23 | 504 | 7 | 61 | 17 | 505 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for bottom lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T04:56:33Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:00:09Z._
