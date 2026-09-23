@@ -4,7 +4,7 @@
 
 Yet another cross-platform graphical process/system monitor.
 
-[![x-cmd/install — bottom Code Quality Monitoring Repo Card](https://repo.x-cmd.io/bottom.svg?lang=zh)](https://x-cmd.com/install/bottom)
+[![x-cmd/install — bottom Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/bottom.svg?lang=zh)](https://x-cmd.com/install/bottom)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install bottom
 
 ## 代码洞察
 
-合计: **43,586** 行代码（覆盖前 5 种语言、共 **245** 个文件）。
+合计: **43,646** 行代码（覆盖前 5 种语言、共 **245** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 32,052 | 1,531 | 4,690 | 178 |
+| Rust | 32,112 | 1,533 | 4,697 | 178 |
 | Json | 10,322 | 0 | 0 | 9 |
 | Toml | 638 | 442 | 214 | 52 |
 | Yaml | 195 | 11 | 7 | 2 |
@@ -42,28 +42,28 @@ x install bottom
 
 ## 发布
 
-- **最新版本**: `nightly-77b77407-1790038513` (2026-08-27)
+- **最新版本**: `nightly-fdc29871-1790124812` (2026-08-27)
 - **最近提交**: 2026-09-22
 - **Release 含资产**: 35 个
 
 ## 流行度
 
-- **Star**: 14,038 · **Fork**: 386 · **开放 issue**: 494 · **贡献者**: 88
+- **Star**: 14,043 · **Fork**: 387 · **开放 issue**: 494 · **贡献者**: 88
 
 ## 累计统计
 
-- **发布数**: 73 · **已合并 PR**: 1598 · **开放 PR**: 12 · **已关闭 issue**: 399 · **开放 issue**: 95 · **提交数**: 2648
+- **发布数**: 73 · **已合并 PR**: 1600 · **开放 PR**: 11 · **已关闭 issue**: 400 · **开放 issue**: 94 · **提交数**: 2650
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 41 | 3 | 4 | 3 | 28 |
-| last60d | 2026-07-24 | 6 | 65 | 4 | 9 | 3 | 60 |
-| 90d | 2026-06-24 | 11 | 120 | 4 | 14 | 3 | 111 |
-| last180d | 2026-03-26 | 14 | 199 | 6 | 21 | 5 | 203 |
-| 360d | 2025-09-27 | 21 | 342 | 7 | 38 | 9 | 345 |
-| last720d | 2024-10-02 | 23 | 508 | 8 | 62 | 17 | 509 |
+| 30d | 2026-08-24 | 4 | 41 | 2 | 4 | 2 | 30 |
+| last60d | 2026-07-25 | 6 | 66 | 3 | 10 | 2 | 62 |
+| 90d | 2026-06-25 | 11 | 121 | 3 | 15 | 2 | 113 |
+| last180d | 2026-03-27 | 14 | 201 | 5 | 22 | 4 | 205 |
+| 360d | 2025-09-28 | 21 | 344 | 6 | 38 | 7 | 347 |
+| last720d | 2024-10-03 | 23 | 510 | 7 | 63 | 16 | 511 |
 
 ## Release 资产
 
@@ -114,4 +114,4 @@ bottom 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:52:47Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:49:50Z._
