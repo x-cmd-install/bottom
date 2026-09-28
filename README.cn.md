@@ -30,7 +30,7 @@ x install bottom
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 1/29 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
@@ -48,7 +48,7 @@ x install bottom
 
 ## 流行度
 
-- **Star**: 14,061 · **Fork**: 387 · **开放 issue**: 495 · **贡献者**: 88
+- **Star**: 14,066 · **Fork**: 388 · **开放 issue**: 495 · **贡献者**: 88
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install bottom
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 3 | 28 | 2 | 4 | 3 | 30 |
-| last60d | 2026-07-29 | 5 | 61 | 2 | 8 | 3 | 62 |
-| 90d | 2026-06-29 | 10 | 113 | 3 | 13 | 3 | 113 |
-| last180d | 2026-03-31 | 14 | 201 | 5 | 22 | 5 | 205 |
-| 360d | 2025-10-02 | 21 | 342 | 6 | 38 | 8 | 347 |
-| last720d | 2024-10-07 | 23 | 510 | 7 | 63 | 17 | 511 |
+| 30d | 2026-08-29 | 3 | 28 | 2 | 4 | 3 | 24 |
+| last60d | 2026-07-30 | 5 | 61 | 2 | 8 | 3 | 60 |
+| 90d | 2026-06-30 | 10 | 108 | 3 | 13 | 3 | 104 |
+| last180d | 2026-04-01 | 14 | 201 | 5 | 22 | 5 | 203 |
+| 360d | 2025-10-03 | 21 | 342 | 6 | 37 | 8 | 344 |
+| last720d | 2024-10-08 | 23 | 510 | 7 | 63 | 17 | 511 |
 
 ## Release 资产
 
@@ -114,4 +114,4 @@ bottom 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260927.yml` · 2026-09-27T05:21:21Z._
+_数据快照: `data/card/260928.yml` · 2026-09-28T05:29:02Z._

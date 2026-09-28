@@ -30,7 +30,7 @@ Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/29 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,061 · **Forks**: 387 · **Open issues**: 495 · **Contributors**: 88
+- **Stars**: 14,066 · **Forks**: 388 · **Open issues**: 495 · **Contributors**: 88
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 3 | 28 | 2 | 4 | 3 | 30 |
-| last60d | 2026-07-29 | 5 | 61 | 2 | 8 | 3 | 62 |
-| 90d | 2026-06-29 | 10 | 113 | 3 | 13 | 3 | 113 |
-| last180d | 2026-03-31 | 14 | 201 | 5 | 22 | 5 | 205 |
-| 360d | 2025-10-02 | 21 | 342 | 6 | 38 | 8 | 347 |
-| last720d | 2024-10-07 | 23 | 510 | 7 | 63 | 17 | 511 |
+| 30d | 2026-08-29 | 3 | 28 | 2 | 4 | 3 | 24 |
+| last60d | 2026-07-30 | 5 | 61 | 2 | 8 | 3 | 60 |
+| 90d | 2026-06-30 | 10 | 108 | 3 | 13 | 3 | 104 |
+| last180d | 2026-04-01 | 14 | 201 | 5 | 22 | 5 | 203 |
+| 360d | 2025-10-03 | 21 | 342 | 6 | 37 | 8 | 344 |
+| last720d | 2024-10-08 | 23 | 510 | 7 | 63 | 17 | 511 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for bottom lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:21:21Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:29:02Z._
