@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `nightly-cea75476-1790902690` (2026-08-27)
-- **Last commit**: 2026-10-01
+- **Latest**: `nightly-7d65d62c-1791077604` (2026-08-27)
+- **Last commit**: 2026-10-03
 - **Assets in release**: 35
 
 ## Popularity
 
-- **Stars**: 14,080 · **Forks**: 391 · **Open issues**: 495 · **Contributors**: 88
+- **Stars**: 14,084 · **Forks**: 391 · **Open issues**: 495 · **Contributors**: 88
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 1606 · **Open PRs**: 10 · **Closed issues**: 401 · **Open issues**: 94 · **Commits**: 2656
+- **Releases**: 73 · **Merged PRs**: 1607 · **Open PRs**: 9 · **Closed issues**: 401 · **Open issues**: 94 · **Commits**: 2657
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 3 | 27 | 2 | 3 | 3 | 30 |
-| last60d | 2026-08-04 | 5 | 66 | 2 | 8 | 3 | 66 |
-| 90d | 2026-07-05 | 9 | 111 | 3 | 13 | 3 | 110 |
-| last180d | 2026-04-06 | 14 | 205 | 4 | 21 | 5 | 209 |
-| 360d | 2025-10-08 | 21 | 345 | 5 | 37 | 8 | 350 |
-| last720d | 2024-10-13 | 23 | 516 | 6 | 63 | 17 | 517 |
+| 30d | 2026-09-04 | 3 | 26 | 1 | 3 | 3 | 31 |
+| last60d | 2026-08-05 | 5 | 67 | 1 | 8 | 3 | 67 |
+| 90d | 2026-07-06 | 9 | 108 | 2 | 13 | 3 | 111 |
+| last180d | 2026-04-07 | 14 | 206 | 3 | 20 | 5 | 210 |
+| 360d | 2025-10-09 | 20 | 345 | 4 | 37 | 8 | 351 |
+| last720d | 2024-10-14 | 23 | 517 | 5 | 63 | 17 | 518 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for bottom lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:17:41Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T05:50:18Z._
