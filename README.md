@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,114 · **Forks**: 401 · **Open issues**: 497 · **Contributors**: 88
+- **Stars**: 14,116 · **Forks**: 394 · **Open issues**: 497 · **Contributors**: 88
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 3 | 7 | 1 | 0 | 4 | 7 |
-| last60d | 2026-08-23 | 4 | 50 | 2 | 5 | 6 | 46 |
-| 90d | 2026-07-24 | 6 | 74 | 3 | 10 | 6 | 69 |
-| last180d | 2026-04-25 | 14 | 177 | 4 | 16 | 8 | 179 |
-| 360d | 2025-10-27 | 20 | 339 | 5 | 35 | 11 | 342 |
-| last720d | 2024-11-01 | 23 | 512 | 6 | 62 | 17 | 514 |
+| 30d | 2026-09-23 | 3 | 7 | 1 | 0 | 3 | 7 |
+| last60d | 2026-08-24 | 4 | 48 | 2 | 4 | 6 | 46 |
+| 90d | 2026-07-25 | 6 | 73 | 3 | 10 | 6 | 69 |
+| last180d | 2026-04-26 | 14 | 177 | 4 | 16 | 8 | 179 |
+| 360d | 2025-10-28 | 20 | 339 | 5 | 35 | 11 | 342 |
+| last720d | 2024-11-02 | 23 | 512 | 6 | 62 | 17 | 513 |
 
 ## Release assets
 
@@ -105,6 +105,23 @@ Lowest-scoring checks:
 | [completion.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/completion.tar.gz) | 7.7 KiB | `native/unknown` |
 | [manpage.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.14.9/manpage.tar.gz) | 3.4 KiB | `native/unknown` |
 
+## Distribution status
+
+Reported by **217** distros on [repology.org](https://repology.org/project/bottom). **32** are ✅ on the latest upstream release, **137** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.14.9+~0.1.0` | incorrect |
+| Debian 14 | `0.14.9+~0.1.0` | incorrect |
+| Debian 13 | `0.10.2+20250107` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `0.9.6` | ⚠️ outdated |
+| Arch | `0.14.9` | ✅ latest |
+| Homebrew | `0.14.9` | ✅ latest |
+| Nix unstable | `0.14.9` | ✅ latest |
+| Void | `0.12.3` | ⚠️ outdated |
+| Alpine edge | `0.14.8` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.14.7` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for bottom lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `bottom` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -114,4 +131,4 @@ Install metadata for bottom lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:38:27Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:48:48Z._
