@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,132 · **Forks**: 397 · **Open issues**: 498 · **Contributors**: 89
+- **Stars**: 14,134 · **Forks**: 398 · **Open issues**: 498 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 1608 · **Open PRs**: 12 · **Closed issues**: 400 · **Open issues**: 98 · **Commits**: 2657
+- **Releases**: 73 · **Merged PRs**: 1608 · **Open PRs**: 11 · **Closed issues**: 401 · **Open issues**: 97 · **Commits**: 2657
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 3 | 7 | 2 | 0 | 4 | 1 |
-| last60d | 2026-08-27 | 4 | 37 | 3 | 4 | 7 | 33 |
-| 90d | 2026-07-28 | 5 | 69 | 3 | 8 | 7 | 67 |
-| last180d | 2026-04-29 | 14 | 176 | 5 | 16 | 9 | 176 |
-| 360d | 2025-10-31 | 20 | 339 | 6 | 35 | 12 | 337 |
-| last720d | 2024-11-05 | 23 | 509 | 7 | 62 | 18 | 510 |
+| 30d | 2026-09-27 | 3 | 7 | 1 | 1 | 3 | 1 |
+| last60d | 2026-08-28 | 3 | 35 | 2 | 5 | 6 | 33 |
+| 90d | 2026-07-29 | 5 | 68 | 2 | 9 | 6 | 67 |
+| last180d | 2026-04-30 | 14 | 176 | 4 | 17 | 8 | 176 |
+| 360d | 2025-11-01 | 20 | 339 | 4 | 35 | 11 | 337 |
+| last720d | 2024-11-06 | 23 | 509 | 6 | 63 | 17 | 510 |
 
 ## Release assets
 
@@ -131,4 +131,4 @@ Install metadata for bottom lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:50:39Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T04:59:33Z._
