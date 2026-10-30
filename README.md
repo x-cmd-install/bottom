@@ -14,7 +14,7 @@ x install bottom
 
 ## Code insight
 
-Total: **45,460** lines of code across **245** files in the top 5 languages.
+Total: **45,478** lines of code across **245** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `nightly-fdc61caf-1793148153` (2026-08-27)
-- **Last commit**: 2026-10-28
+- **Latest**: `nightly-dbf91d4b-1793321129` (2026-08-27)
+- **Last commit**: 2026-10-29
 - **Assets in release**: 35
 
 ## Popularity
 
-- **Stars**: 14,137 · **Forks**: 399 · **Open issues**: 500 · **Contributors**: 90
+- **Stars**: 14,139 · **Forks**: 400 · **Open issues**: 501 · **Contributors**: 90
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 1613 · **Open PRs**: 12 · **Closed issues**: 403 · **Open issues**: 97 · **Commits**: 2662
+- **Releases**: 73 · **Merged PRs**: 1615 · **Open PRs**: 11 · **Closed issues**: 406 · **Open issues**: 95 · **Commits**: 2664
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 3 | 8 | 2 | 3 | 3 | 6 |
-| last60d | 2026-08-30 | 3 | 40 | 3 | 7 | 6 | 38 |
-| 90d | 2026-07-31 | 5 | 72 | 3 | 11 | 6 | 72 |
-| last180d | 2026-05-02 | 14 | 181 | 5 | 19 | 8 | 181 |
-| 360d | 2025-11-03 | 20 | 341 | 5 | 37 | 11 | 342 |
-| last720d | 2024-11-08 | 23 | 512 | 7 | 65 | 17 | 515 |
+| 30d | 2026-09-30 | 3 | 9 | 1 | 5 | 1 | 8 |
+| last60d | 2026-08-31 | 3 | 41 | 2 | 9 | 4 | 40 |
+| 90d | 2026-08-01 | 5 | 74 | 2 | 13 | 4 | 74 |
+| last180d | 2026-05-03 | 14 | 182 | 4 | 21 | 6 | 183 |
+| 360d | 2025-11-04 | 20 | 343 | 4 | 39 | 9 | 344 |
+| last720d | 2024-11-09 | 23 | 514 | 6 | 67 | 15 | 515 |
 
 ## Release assets
 
@@ -131,4 +131,4 @@ Install metadata for bottom lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:42:29Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:45:19Z._
