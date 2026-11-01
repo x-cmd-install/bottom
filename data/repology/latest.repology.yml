@@ -1,25 +1,12 @@
-- repo: manjaro_stable
+- repo: arch
   subrepo: extra
   srcname: bottom
   binname: bottom
   visiblename: bottom
   version: 0.14.9
   origversion: 0.14.9-1
-  status: newest
-  summary: A graphical process/system monitor
-  licenses:
-    - MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: bottom
-  binname: bottom-doc
-  visiblename: bottom-doc
-  version: 0.9.1
-  origversion: 0.9.1-r0
   status: outdated
-  summary: Graphical process/system monitor with a customizable interface (documentation)
-  maintainers:
-    - guddaff@protonmail.com
+  summary: A graphical process/system monitor
   licenses:
     - MIT
 - repo: aerynos
@@ -27,39 +14,13 @@
   visiblename: bottom
   version: 0.14.9
   origversion: null
-  status: newest
+  status: outdated
   summary: Yet another cross-platform graphical process/system monitor
   licenses:
     - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: bottom
-  binname: bottom-bash-completion
-  visiblename: bottom-bash-completion
-  version: 0.6.8
-  origversion: 0.6.8-r0
-  status: outdated
-  summary: Bash completions for bottom
-  maintainers:
-    - guddaff@protonmail.com
-  licenses:
-    - MIT
-- repo: alpine_3_17
-  subrepo: community
-  srcname: bottom
-  binname: bottom-zsh-completion
-  visiblename: bottom-zsh-completion
-  version: 0.6.8
-  origversion: 0.6.8-r0
-  status: outdated
-  summary: Zsh completions for bottom
-  maintainers:
-    - guddaff@protonmail.com
-  licenses:
-    - MIT
-- repo: alpine_3_17
-  subrepo: community
-  srcname: bottom
   binname: bottom
   visiblename: bottom
   version: 0.6.8
@@ -96,171 +57,206 @@
     - guddaff@protonmail.com
   licenses:
     - MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: bottom
-  binname: bottom
-  visiblename: bottom
-  version: 0.9.1
-  origversion: 0.9.1-r0
-  status: outdated
-  summary: Graphical process/system monitor with a customizable interface
-  maintainers:
-    - guddaff@protonmail.com
-  licenses:
-    - MIT
-- repo: alpine_3_18
+- repo: alpine_3_17
   subrepo: community
   srcname: bottom
   binname: bottom-bash-completion
   visiblename: bottom-bash-completion
-  version: 0.9.1
-  origversion: 0.9.1-r0
+  version: 0.6.8
+  origversion: 0.6.8-r0
   status: outdated
   summary: Bash completions for bottom
   maintainers:
     - guddaff@protonmail.com
   licenses:
     - MIT
-- repo: alpine_3_18
-  subrepo: community
+- repo: crates_io
   srcname: bottom
-  binname: bottom-fish-completion
-  visiblename: bottom-fish-completion
-  version: 0.9.1
-  origversion: 0.9.1-r0
-  status: outdated
-  summary: Fish completions for bottom
-  maintainers:
-    - guddaff@protonmail.com
-  licenses:
-    - MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: bottom
-  binname: bottom-zsh-completion
-  visiblename: bottom-zsh-completion
-  version: 0.9.1
-  origversion: 0.9.1-r0
-  status: outdated
-  summary: Zsh completions for bottom
-  maintainers:
-    - guddaff@protonmail.com
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: bottom
-  binname: bottom
   visiblename: bottom
-  version: 0.9.6
-  origversion: 0.9.6-r0
-  status: outdated
-  summary: Graphical process/system monitor with a customizable interface
-  maintainers:
-    - guddaff@protonmail.com
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: bottom
-  binname: bottom-bash-completion
-  visiblename: bottom-bash-completion
-  version: 0.9.6
-  origversion: 0.9.6-r0
-  status: outdated
-  summary: Bash completions for bottom
-  maintainers:
-    - guddaff@protonmail.com
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: bottom
-  binname: bottom-doc
-  visiblename: bottom-doc
-  version: 0.9.6
-  origversion: 0.9.6-r0
-  status: outdated
-  summary: Graphical process/system monitor with a customizable interface (documentation)
-  maintainers:
-    - guddaff@protonmail.com
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: bottom
-  binname: bottom-fish-completion
-  visiblename: bottom-fish-completion
-  version: 0.9.6
-  origversion: 0.9.6-r0
-  status: outdated
-  summary: Fish completions for bottom
-  maintainers:
-    - guddaff@protonmail.com
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: bottom
-  binname: bottom-zsh-completion
-  visiblename: bottom-zsh-completion
-  version: 0.9.6
-  origversion: 0.9.6-r0
-  status: outdated
-  summary: Zsh completions for bottom
-  maintainers:
-    - guddaff@protonmail.com
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: bottom
-  binname: bottom
-  visiblename: bottom
-  version: 0.9.6
-  origversion: 0.9.6-r0
-  status: outdated
-  summary: Graphical process/system monitor with a customizable interface
-  maintainers:
-    - guddaff@protonmail.com
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: bottom
-  binname: bottom-bash-completion
-  visiblename: bottom-bash-completion
-  version: 0.9.6
-  origversion: 0.9.6-r0
-  status: outdated
-  summary: Bash completions for bottom
-  maintainers:
-    - guddaff@protonmail.com
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: bottom
-  binname: bottom-doc
-  visiblename: bottom-doc
-  version: 0.9.6
-  origversion: 0.9.6-r0
-  status: outdated
-  summary: Graphical process/system monitor with a customizable interface (documentation)
-  maintainers:
-    - guddaff@protonmail.com
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: bottom
-  binname: bottom
-  visiblename: bottom
-  version: 0.14.9
-  origversion: 0.14.9-1
+  version: 0.15.0
+  origversion: null
   status: newest
-  summary: A graphical process/system monitor
+  summary: A customizable cross-platform graphical process/system monitor for the terminal. Supports Linux, macOS, and Windows.
+- repo: alpine_3_17
+  subrepo: community
+  srcname: bottom
+  binname: bottom-zsh-completion
+  visiblename: bottom-zsh-completion
+  version: 0.6.8
+  origversion: 0.6.8-r0
+  status: outdated
+  summary: Zsh completions for bottom
+  maintainers:
+    - guddaff@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: bottom
+  binname: bottom
+  visiblename: bottom
+  version: 0.9.1
+  origversion: 0.9.1-r0
+  status: outdated
+  summary: Graphical process/system monitor with a customizable interface
+  maintainers:
+    - guddaff@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: bottom
+  binname: bottom-bash-completion
+  visiblename: bottom-bash-completion
+  version: 0.9.1
+  origversion: 0.9.1-r0
+  status: outdated
+  summary: Bash completions for bottom
+  maintainers:
+    - guddaff@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: bottom
+  binname: bottom-doc
+  visiblename: bottom-doc
+  version: 0.9.1
+  origversion: 0.9.1-r0
+  status: outdated
+  summary: Graphical process/system monitor with a customizable interface (documentation)
+  maintainers:
+    - guddaff@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: bottom
+  binname: bottom-fish-completion
+  visiblename: bottom-fish-completion
+  version: 0.9.1
+  origversion: 0.9.1-r0
+  status: outdated
+  summary: Fish completions for bottom
+  maintainers:
+    - guddaff@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: bottom
+  binname: bottom-zsh-completion
+  visiblename: bottom-zsh-completion
+  version: 0.9.1
+  origversion: 0.9.1-r0
+  status: outdated
+  summary: Zsh completions for bottom
+  maintainers:
+    - guddaff@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: bottom
+  binname: bottom
+  visiblename: bottom
+  version: 0.9.6
+  origversion: 0.9.6-r0
+  status: outdated
+  summary: Graphical process/system monitor with a customizable interface
+  maintainers:
+    - guddaff@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: bottom
+  binname: bottom-bash-completion
+  visiblename: bottom-bash-completion
+  version: 0.9.6
+  origversion: 0.9.6-r0
+  status: outdated
+  summary: Bash completions for bottom
+  maintainers:
+    - guddaff@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: bottom
+  binname: bottom-doc
+  visiblename: bottom-doc
+  version: 0.9.6
+  origversion: 0.9.6-r0
+  status: outdated
+  summary: Graphical process/system monitor with a customizable interface (documentation)
+  maintainers:
+    - guddaff@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: bottom
+  binname: bottom-fish-completion
+  visiblename: bottom-fish-completion
+  version: 0.9.6
+  origversion: 0.9.6-r0
+  status: outdated
+  summary: Fish completions for bottom
+  maintainers:
+    - guddaff@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: bottom
+  binname: bottom-zsh-completion
+  visiblename: bottom-zsh-completion
+  version: 0.9.6
+  origversion: 0.9.6-r0
+  status: outdated
+  summary: Zsh completions for bottom
+  maintainers:
+    - guddaff@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: bottom
+  binname: bottom
+  visiblename: bottom
+  version: 0.9.6
+  origversion: 0.9.6-r0
+  status: outdated
+  summary: Graphical process/system monitor with a customizable interface
+  maintainers:
+    - guddaff@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: bottom
+  binname: bottom-bash-completion
+  visiblename: bottom-bash-completion
+  version: 0.9.6
+  origversion: 0.9.6-r0
+  status: outdated
+  summary: Bash completions for bottom
+  maintainers:
+    - guddaff@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: bottom
+  binname: bottom-doc
+  visiblename: bottom-doc
+  version: 0.9.6
+  origversion: 0.9.6-r0
+  status: outdated
+  summary: Graphical process/system monitor with a customizable interface (documentation)
+  maintainers:
+    - guddaff@protonmail.com
   licenses:
     - MIT
 - repo: alpine_3_20
@@ -393,17 +389,18 @@
     - guddaff@protonmail.com
   licenses:
     - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: bottom
+- repo: openwrt_24_10_x86_64
+  subrepo: packages
+  srcname: feeds/packages/admin/bottom
   binname: bottom
   visiblename: bottom
-  version: 0.14.9
-  origversion: 0.14.9-1
-  status: newest
-  summary: A graphical process/system monitor
-  licenses:
-    - MIT
+  version: 0.11.1
+  origversion: 0.11.1-r1
+  status: outdated
+  maintainers:
+    - lu_zero@luminem.org
+  categories:
+    - admin
 - repo: alpine_3_22
   subrepo: community
   srcname: bottom
@@ -625,6 +622,16 @@
     - guddaff@protonmail.com
   licenses:
     - MIT
+- repo: crux_37
+  subrepo: contrib
+  srcname: bottom
+  visiblename: bottom
+  version: 0.10.2
+  origversion: null
+  status: outdated
+  summary: Yet another cross-platform graphical process/system monitor
+  maintainers:
+    - tbier@posteo.de
 - repo: alt_p11
   srcname: bottom
   binnames:
@@ -649,7 +656,7 @@
   visiblename: bottom
   version: 0.14.9
   origversion: 0.14.9-alt1
-  status: newest
+  status: outdated
   summary: Yet another cross-platform graphical process/system monitor
   maintainers:
     - amakeenk@altlinux.org
@@ -663,23 +670,12 @@
   visiblename: bottom
   version: 0.14.9
   origversion: null
-  status: newest
+  status: outdated
   summary: Graphical process/system monitor
   maintainers:
     - fallback-mnt-aosc@repology
   categories:
     - admin
-- repo: arch
-  subrepo: extra
-  srcname: bottom
-  binname: bottom
-  visiblename: bottom
-  version: 0.14.9
-  origversion: 0.14.9-1
-  status: newest
-  summary: A graphical process/system monitor
-  licenses:
-    - MIT
 - repo: aur
   srcname: bottom-git
   binname: bottom-git
@@ -711,7 +707,7 @@
   visiblename: bottom
   version: 0.14.9
   origversion: 0.14.9-r0
-  status: newest
+  status: outdated
   summary: Process and system monitor
   licenses:
     - MIT
@@ -722,7 +718,7 @@
   visiblename: bottom-bashcomp
   version: 0.14.9
   origversion: 0.14.9-r0
-  status: newest
+  status: outdated
   summary: Process and system monitor (bash completions)
   licenses:
     - MIT
@@ -733,7 +729,7 @@
   visiblename: bottom-doc
   version: 0.14.9
   origversion: 0.14.9-r0
-  status: newest
+  status: outdated
   summary: Process and system monitor (documentation)
   licenses:
     - MIT
@@ -744,7 +740,7 @@
   visiblename: bottom-fishcomp
   version: 0.14.9
   origversion: 0.14.9-r0
-  status: newest
+  status: outdated
   summary: Process and system monitor (fish completions)
   licenses:
     - MIT
@@ -755,7 +751,7 @@
   visiblename: bottom-man
   version: 0.14.9
   origversion: 0.14.9-r0
-  status: newest
+  status: outdated
   summary: Process and system monitor (manual pages)
   licenses:
     - MIT
@@ -766,7 +762,7 @@
   visiblename: bottom-zshcomp
   version: 0.14.9
   origversion: 0.14.9-r0
-  status: newest
+  status: outdated
   summary: Process and system monitor (zsh completions)
   licenses:
     - MIT
@@ -775,41 +771,24 @@
   visiblename: bottom
   version: 0.14.9
   origversion: null
-  status: newest
+  status: outdated
   summary: A customizable cross-platform graphical process/system monitor for the terminal.
 - repo: chromebrew
   srcname: bottom
   visiblename: bottom
   version: 0.14.9
   origversion: null
-  status: newest
+  status: outdated
   summary: Yet another cross-platform graphical process/system monitor.
   licenses:
     - MIT
-- repo: crates_io
-  srcname: bottom
-  visiblename: bottom
-  version: 0.14.9
-  origversion: null
-  status: newest
-  summary: A customizable cross-platform graphical process/system monitor for the terminal. Supports Linux, macOS, and Windows.
-- repo: crux_37
-  subrepo: contrib
-  srcname: bottom
-  visiblename: bottom
-  version: 0.10.2
-  origversion: null
-  status: outdated
-  summary: Yet another cross-platform graphical process/system monitor
-  maintainers:
-    - tbier@posteo.de
 - repo: crux_38
   subrepo: contrib
   srcname: bottom
   visiblename: bottom
   version: 0.14.9
   origversion: null
-  status: newest
+  status: outdated
   summary: Yet another cross-platform graphical process/system monitor
   maintainers:
     - tbier@posteo.de
@@ -834,20 +813,11 @@
   visiblename: btm
   version: 0.14.9+~0.1.0
   origversion: 0.14.9+ds+~0.1.0+ds-1
-  status: incorrect
+  status: outdated
   maintainers:
     - dr@jones.dk
   categories:
     - misc
-- repo: wakemeops
-  subrepo: terminal
-  binname: bottom
-  visiblename: bottom
-  version: 0.14.2
-  origversion: 0.14.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: debian_unstable
   subrepo: sid/main
   srcname: btm
@@ -856,7 +826,7 @@
   visiblename: btm
   version: 0.14.9+~0.1.0
   origversion: 0.14.9+ds+~0.1.0+ds-1
-  status: incorrect
+  status: outdated
   maintainers:
     - dr@jones.dk
   categories:
@@ -869,7 +839,7 @@
   visiblename: btm
   version: 0.14.9+~0.1.0
   origversion: 0.14.9+ds+~0.1.0+ds-1
-  status: incorrect
+  status: outdated
   maintainers:
     - dr@jones.dk
   categories:
@@ -880,7 +850,7 @@
   visiblename: sys-process/bottom
   version: 0.14.9
   origversion: null
-  status: newest
+  status: outdated
   summary: A customizable cross-platform graphical system monitor for the terminal
   maintainers:
     - fallback-mnt-exherbo@repology
@@ -892,7 +862,7 @@
   visiblename: sysutils/bottom
   version: 0.14.9
   origversion: 0.14.9_2
-  status: newest
+  status: outdated
   summary: Graphical process and system monitor
   maintainers:
     - adamw@freebsd.org
@@ -916,6 +886,18 @@
     - Unicode-DFS-2016
   categories:
     - sys-process
+- repo: nix_unstable
+  srcname: bottom
+  visiblename: bottom
+  version: 0.14.9
+  origversion: null
+  status: outdated
+  summary: Cross-platform graphical process/system monitor with a customizable interface
+  maintainers:
+    - nicolas@normie.dev
+    - gutyina.gergo.2@gmail.com
+  licenses:
+    - MIT
 - repo: gentoo
   srcname: sys-process/bottom
   visiblename: sys-process/bottom
@@ -946,7 +928,7 @@
 - repo: homebrew
   srcname: bottom
   visiblename: bottom
-  version: 0.14.9
+  version: 0.15.0
   origversion: null
   status: newest
   summary: Yet another cross-platform graphical process/system monitor
@@ -965,7 +947,7 @@
   visiblename: btm
   version: 0.14.9+~0.1.0
   origversion: 0.14.9+ds+~0.1.0+ds-1
-  status: incorrect
+  status: outdated
   maintainers:
     - dr@jones.dk
   categories:
@@ -979,60 +961,6 @@
   status: outdated
   maintainers:
     - jslick@gmail.com
-- repo: msys2_clang64
-  srcname: mingw-w64-bottom
-  binname: mingw-w64-clang-x86_64-bottom
-  visiblename: mingw-w64-clang-x86_64-bottom
-  version: 0.14.9
-  origversion: 0.14.9-1
-  status: newest
-  summary: A graphical process/system monitor (mingw-w64)
-  licenses:
-    - spdx:MIT
-- repo: msys2_clangarm64
-  srcname: mingw-w64-bottom
-  binname: mingw-w64-clang-aarch64-bottom
-  visiblename: mingw-w64-clang-aarch64-bottom
-  version: 0.14.9
-  origversion: 0.14.9-1
-  status: newest
-  summary: A graphical process/system monitor (mingw-w64)
-  licenses:
-    - spdx:MIT
-- repo: msys2_ucrt64
-  srcname: mingw-w64-bottom
-  binname: mingw-w64-ucrt-x86_64-bottom
-  visiblename: mingw-w64-ucrt-x86_64-bottom
-  version: 0.14.9
-  origversion: 0.14.9-1
-  status: newest
-  summary: A graphical process/system monitor (mingw-w64)
-  licenses:
-    - spdx:MIT
-- repo: nix_stable_24_05
-  srcname: bottom
-  visiblename: bottom
-  version: 0.9.6
-  origversion: null
-  status: outdated
-  summary: A cross-platform graphical process/system monitor with a customizable interface
-  maintainers:
-    - nicolas@normie.dev
-    - figsoda@pm.me
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: bottom
-  visiblename: bottom
-  version: 0.10.2
-  origversion: null
-  status: outdated
-  summary: Cross-platform graphical process/system monitor with a customizable interface
-  maintainers:
-    - nicolas@normie.dev
-    - figsoda@pm.me
-  licenses:
-    - MIT
 - repo: liguros_stable
   srcname: sys-process/bottom
   visiblename: sys-process/bottom
@@ -1069,106 +997,6 @@
     - Unicode-DFS-2016
   categories:
     - sys-process
-- repo: liguros_develop
-  srcname: sys-process/bottom
-  visiblename: sys-process/bottom
-  version: 0.12.3
-  origversion: null
-  status: legacy
-  summary: A graphical process/system monitor with a customizable interface
-  maintainers:
-    - randy@electronsweatshop.com
-    - proxy-maint@gentoo.org
-  licenses:
-    - MIT
-    - Apache-2.0
-    - ISC
-    - MPL-2.0
-    - Unicode-DFS-2016
-  categories:
-    - sys-process
-- repo: liguros_develop
-  srcname: sys-process/bottom
-  visiblename: sys-process/bottom
-  version: 0.14.6
-  origversion: null
-  status: outdated
-  summary: A graphical process/system monitor with a customizable interface
-  maintainers:
-    - randy@electronsweatshop.com
-    - proxy-maint@gentoo.org
-  licenses:
-    - MIT
-    - Apache-2.0
-    - ISC
-    - MPL-2.0
-    - Unicode-3.0
-    - ZLIB
-  categories:
-    - sys-process
-- repo: macports
-  srcname: sysutils/bottom
-  binname: bottom
-  visiblename: bottom
-  version: 0.14.9
-  origversion: null
-  status: newest
-  summary: Yet another cross-platform graphical process/system monitor
-  maintainers:
-    - herbygillot@github
-  licenses:
-    - MIT
-  categories:
-    - sysutils
-- repo: nix_stable_25_05
-  srcname: bottom
-  visiblename: bottom
-  version: 0.10.2
-  origversion: null
-  status: outdated
-  summary: Cross-platform graphical process/system monitor with a customizable interface
-  maintainers:
-    - nicolas@normie.dev
-    - figsoda@pm.me
-    - gutyina.gergo.2@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: bottom
-  visiblename: bottom
-  version: 0.12.2
-  origversion: null
-  status: outdated
-  summary: Cross-platform graphical process/system monitor with a customizable interface
-  maintainers:
-    - nicolas@normie.dev
-    - gutyina.gergo.2@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_26_05
-  srcname: bottom
-  visiblename: bottom
-  version: 0.14.2
-  origversion: null
-  status: outdated
-  summary: Cross-platform graphical process/system monitor with a customizable interface
-  maintainers:
-    - nicolas@normie.dev
-    - gutyina.gergo.2@gmail.com
-  licenses:
-    - MIT
-- repo: nix_unstable
-  srcname: bottom
-  visiblename: bottom
-  version: 0.14.9
-  origversion: null
-  status: newest
-  summary: Cross-platform graphical process/system monitor with a customizable interface
-  maintainers:
-    - nicolas@normie.dev
-    - gutyina.gergo.2@gmail.com
-  licenses:
-    - MIT
 - repo: opensuse_leap_15_5
   subrepo: main/oss
   srcname: bottom
@@ -1221,18 +1049,181 @@
     - lu_zero@luminem.org
   categories:
     - admin
-- repo: openwrt_24_10_x86_64
-  subrepo: packages
-  srcname: feeds/packages/admin/bottom
+- repo: liguros_develop
+  srcname: sys-process/bottom
+  visiblename: sys-process/bottom
+  version: 0.12.3
+  origversion: null
+  status: legacy
+  summary: A graphical process/system monitor with a customizable interface
+  maintainers:
+    - randy@electronsweatshop.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - ISC
+    - MPL-2.0
+    - Unicode-DFS-2016
+  categories:
+    - sys-process
+- repo: liguros_develop
+  srcname: sys-process/bottom
+  visiblename: sys-process/bottom
+  version: 0.14.6
+  origversion: null
+  status: outdated
+  summary: A graphical process/system monitor with a customizable interface
+  maintainers:
+    - randy@electronsweatshop.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - ISC
+    - MPL-2.0
+    - Unicode-3.0
+    - ZLIB
+  categories:
+    - sys-process
+- repo: macports
+  srcname: sysutils/bottom
   binname: bottom
   visiblename: bottom
-  version: 0.11.1
-  origversion: 0.11.1-r1
+  version: 0.14.9
+  origversion: null
   status: outdated
+  summary: Yet another cross-platform graphical process/system monitor
   maintainers:
-    - lu_zero@luminem.org
+    - herbygillot@github
+  licenses:
+    - MIT
   categories:
-    - admin
+    - sysutils
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: bottom
+  binname: bottom
+  visiblename: bottom
+  version: 0.14.9
+  origversion: 0.14.9-1
+  status: outdated
+  summary: A graphical process/system monitor
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: bottom
+  binname: bottom
+  visiblename: bottom
+  version: 0.14.9
+  origversion: 0.14.9-1
+  status: outdated
+  summary: A graphical process/system monitor
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: bottom
+  binname: bottom
+  visiblename: bottom
+  version: 0.14.9
+  origversion: 0.14.9-1
+  status: outdated
+  summary: A graphical process/system monitor
+  licenses:
+    - MIT
+- repo: msys2_clang64
+  srcname: mingw-w64-bottom
+  binname: mingw-w64-clang-x86_64-bottom
+  visiblename: mingw-w64-clang-x86_64-bottom
+  version: 0.14.9
+  origversion: 0.14.9-1
+  status: outdated
+  summary: A graphical process/system monitor (mingw-w64)
+  licenses:
+    - spdx:MIT
+- repo: msys2_clangarm64
+  srcname: mingw-w64-bottom
+  binname: mingw-w64-clang-aarch64-bottom
+  visiblename: mingw-w64-clang-aarch64-bottom
+  version: 0.14.9
+  origversion: 0.14.9-1
+  status: outdated
+  summary: A graphical process/system monitor (mingw-w64)
+  licenses:
+    - spdx:MIT
+- repo: msys2_ucrt64
+  srcname: mingw-w64-bottom
+  binname: mingw-w64-ucrt-x86_64-bottom
+  visiblename: mingw-w64-ucrt-x86_64-bottom
+  version: 0.14.9
+  origversion: 0.14.9-1
+  status: outdated
+  summary: A graphical process/system monitor (mingw-w64)
+  licenses:
+    - spdx:MIT
+- repo: nix_stable_24_05
+  srcname: bottom
+  visiblename: bottom
+  version: 0.9.6
+  origversion: null
+  status: outdated
+  summary: A cross-platform graphical process/system monitor with a customizable interface
+  maintainers:
+    - nicolas@normie.dev
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: bottom
+  visiblename: bottom
+  version: 0.10.2
+  origversion: null
+  status: outdated
+  summary: Cross-platform graphical process/system monitor with a customizable interface
+  maintainers:
+    - nicolas@normie.dev
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: bottom
+  visiblename: bottom
+  version: 0.10.2
+  origversion: null
+  status: outdated
+  summary: Cross-platform graphical process/system monitor with a customizable interface
+  maintainers:
+    - nicolas@normie.dev
+    - figsoda@pm.me
+    - gutyina.gergo.2@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: bottom
+  visiblename: bottom
+  version: 0.12.2
+  origversion: null
+  status: outdated
+  summary: Cross-platform graphical process/system monitor with a customizable interface
+  maintainers:
+    - nicolas@normie.dev
+    - gutyina.gergo.2@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: bottom
+  visiblename: bottom
+  version: 0.14.2
+  origversion: null
+  status: outdated
+  summary: Cross-platform graphical process/system monitor with a customizable interface
+  maintainers:
+    - nicolas@normie.dev
+    - gutyina.gergo.2@gmail.com
+  licenses:
+    - MIT
 - repo: pacstall
   srcname: bottom-deb
   binname: bottom-deb
@@ -1250,7 +1241,7 @@
   visiblename: bottom
   version: 0.14.9
   origversion: 0.14.9-1
-  status: newest
+  status: outdated
   summary: A graphical process/system monitor
   licenses:
     - MIT
@@ -1357,54 +1348,40 @@
   subrepo: main
   binname: bottom
   visiblename: bottom
-  version: 0.14.9
+  version: 0.15.0
   origversion: null
   status: newest
   licenses:
     - MIT
+- repo: terra_40
+  srcname: rust-bottom
+  binname: bottom-debuginfo
+  visiblename: bottom-debuginfo
+  version: 0.10.2
+  origversion: 0.10.2-1.fc40
+  status: outdated
+  summary: Debug information for package bottom
+  maintainers:
+    - git@ben.woods.am
+  licenses:
+    - MIT
+  categories:
+    - Development/Debug
 - repo: scoop
   subrepo: versions
   binname: bottom-nightly
   visiblename: bottom-nightly
-  version: 20261030-dbf91d4b-1793321129
+  version: 20261031-17723968-1793407034
   origversion: null
   status: incorrect
   licenses:
     - MIT
-- repo: terra_41
-  srcname: rust-bottom
-  binname: bottom
-  visiblename: bottom
-  version: 0.11.1
-  origversion: 0.11.1-1.fc41
-  status: outdated
-  summary: Customizable cross-platform graphical process/system monitor for the terminal
-  maintainers:
-    - git@ben.woods.am
-  licenses:
-    - (0BSD OR MIT OR Apache-2.0) AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR MIT OR Apache-2.0) AND ISC AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Zlib OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib AND (Zlib OR Apache-2.0 OR MIT)
-  categories:
-    - Unspecified
-- repo: terra_41
-  srcname: rust-bottom
-  binname: bottom
-  visiblename: bottom
-  version: 0.11.1
-  origversion: 0.11.1-1.fc41
-  status: outdated
-  summary: Customizable cross-platform graphical process/system monitor for the terminal
-  maintainers:
-    - git@ben.woods.am
-  licenses:
-    - (0BSD OR MIT OR Apache-2.0) AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR MIT OR Apache-2.0) AND ISC AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Zlib OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib AND (Zlib OR Apache-2.0 OR MIT)
-  categories:
-    - Unspecified
 - repo: slackbuilds
   srcname: system/bottom
   visiblename: system/bottom
   version: 0.14.9
   origversion: null
-  status: newest
+  status: outdated
   maintainers:
     - kvngncrlsn@gmail.com
   categories:
@@ -1415,7 +1392,7 @@
   visiblename: bottom
   version: 0.14.9
   origversion: null
-  status: newest
+  status: outdated
   summary: Yet another cross-platform graphical process/system monitor.
   maintainers:
     - maddock.evan@vivaldi.net
@@ -1429,7 +1406,7 @@
   visiblename: bottom-dbginfo
   version: 0.14.9
   origversion: null
-  status: newest
+  status: outdated
   summary: Debug symbols for bottom
   maintainers:
     - maddock.evan@vivaldi.net
@@ -1442,7 +1419,7 @@
   visiblename: bottom
   version: 0.14.9
   origversion: null
-  status: newest
+  status: outdated
   summary: Yet another cross-platform graphical process/system monitor
   maintainers:
     - rene@exactco.de
@@ -1574,20 +1551,6 @@
     - Development/Debug
 - repo: terra_40
   srcname: rust-bottom
-  binname: bottom-debuginfo
-  visiblename: bottom-debuginfo
-  version: 0.10.2
-  origversion: 0.10.2-1.fc40
-  status: outdated
-  summary: Debug information for package bottom
-  maintainers:
-    - git@ben.woods.am
-  licenses:
-    - MIT
-  categories:
-    - Development/Debug
-- repo: terra_40
-  srcname: rust-bottom
   binname: rust-bottom-debugsource
   visiblename: rust-bottom-debugsource
   version: 0.10.2
@@ -1612,16 +1575,30 @@
     - Development/Debug
 - repo: terra_41
   srcname: rust-bottom
-  binname: rust-bottom+generate_schema-devel
-  visiblename: rust-bottom+generate_schema-devel
+  binname: bottom
+  visiblename: bottom
   version: 0.11.1
   origversion: 0.11.1-1.fc41
   status: outdated
-  summary: Zsh completion for bottom
+  summary: Customizable cross-platform graphical process/system monitor for the terminal
   maintainers:
     - git@ben.woods.am
   licenses:
-    - MIT
+    - (0BSD OR MIT OR Apache-2.0) AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR MIT OR Apache-2.0) AND ISC AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Zlib OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib AND (Zlib OR Apache-2.0 OR MIT)
+  categories:
+    - Unspecified
+- repo: terra_41
+  srcname: rust-bottom
+  binname: bottom
+  visiblename: bottom
+  version: 0.11.1
+  origversion: 0.11.1-1.fc41
+  status: outdated
+  summary: Customizable cross-platform graphical process/system monitor for the terminal
+  maintainers:
+    - git@ben.woods.am
+  licenses:
+    - (0BSD OR MIT OR Apache-2.0) AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR MIT OR Apache-2.0) AND ISC AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Zlib OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib AND (Zlib OR Apache-2.0 OR MIT)
   categories:
     - Unspecified
 - repo: terra_41
@@ -1638,15 +1615,6 @@
     - MIT
   categories:
     - Unspecified
-- repo: wakemeops
-  subrepo: terminal
-  binname: bottom
-  visiblename: bottom
-  version: 0.14.1
-  origversion: 0.14.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: terra_41
   srcname: rust-bottom
   binname: bottom-debuginfo
@@ -1749,6 +1717,20 @@
   srcname: rust-bottom
   binname: rust-bottom+fern-devel
   visiblename: rust-bottom+fern-devel
+  version: 0.11.1
+  origversion: 0.11.1-1.fc41
+  status: outdated
+  summary: Zsh completion for bottom
+  maintainers:
+    - git@ben.woods.am
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_41
+  srcname: rust-bottom
+  binname: rust-bottom+generate_schema-devel
+  visiblename: rust-bottom+generate_schema-devel
   version: 0.11.1
   origversion: 0.11.1-1.fc41
   status: outdated
@@ -2013,6 +1995,20 @@
     - Development/Debug
 - repo: terra_rawhide
   srcname: rust-bottom
+  binname: rust-bottom+schemars-devel
+  visiblename: rust-bottom+schemars-devel
+  version: 0.14.7
+  origversion: 0.14.7-1.fcrawhide
+  status: outdated
+  summary: Zsh completion for bottom
+  maintainers:
+    - git@ben.woods.am
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: rust-bottom
   binname: bottom-debuginfo
   visiblename: bottom-debuginfo
   version: 0.14.7
@@ -2169,20 +2165,6 @@
   srcname: rust-bottom
   binname: rust-bottom+nvidia-devel
   visiblename: rust-bottom+nvidia-devel
-  version: 0.14.7
-  origversion: 0.14.7-1.fcrawhide
-  status: outdated
-  summary: Zsh completion for bottom
-  maintainers:
-    - git@ben.woods.am
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: terra_rawhide
-  srcname: rust-bottom
-  binname: rust-bottom+schemars-devel
-  visiblename: rust-bottom+schemars-devel
   version: 0.14.7
   origversion: 0.14.7-1.fcrawhide
   status: outdated
@@ -2390,7 +2372,7 @@
   visiblename: bottom
   version: 0.14.9
   origversion: 0.14.9-1~ops2deb
-  status: newest
+  status: outdated
   maintainers:
     - ops2deb@upciti.com
 - repo: wakemeops
@@ -2444,6 +2426,24 @@
   visiblename: bottom
   version: 0.14.3
   origversion: 0.14.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: bottom
+  visiblename: bottom
+  version: 0.14.2
+  origversion: 0.14.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: bottom
+  visiblename: bottom
+  version: 0.14.1
+  origversion: 0.14.1-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
