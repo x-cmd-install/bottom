@@ -14,11 +14,11 @@ x install bottom
 
 ## Code insight
 
-Total: **47,187** lines of code across **246** files in the top 5 languages.
+Total: **47,272** lines of code across **246** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 32,206 | 1,542 | 4,709 | 178 |
+| Rust | 32,291 | 1,545 | 4,726 | 178 |
 | Json | 13,762 | 0 | 0 | 10 |
 | Toml | 627 | 442 | 214 | 52 |
 | Yaml | 195 | 11 | 7 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly-4b6a033f-1793493908` (2026-11-01)
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-02
 - **Assets in release**: 37
 
 ## Popularity
 
-- **Stars**: 14,145 · **Forks**: 401 · **Open issues**: 501 · **Contributors**: 90
+- **Stars**: 14,147 · **Forks**: 402 · **Open issues**: 501 · **Contributors**: 90
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 1619 · **Open PRs**: 10 · **Closed issues**: 406 · **Open issues**: 95 · **Commits**: 2668
+- **Releases**: 74 · **Merged PRs**: 1621 · **Open PRs**: 10 · **Closed issues**: 407 · **Open issues**: 94 · **Commits**: 2670
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 4 | 11 | 0 | 5 | 1 | 11 |
-| last60d | 2026-09-02 | 4 | 41 | 1 | 9 | 4 | 35 |
-| 90d | 2026-08-03 | 6 | 78 | 1 | 13 | 4 | 74 |
-| last180d | 2026-05-05 | 15 | 184 | 3 | 21 | 6 | 177 |
-| 360d | 2025-11-06 | 21 | 341 | 3 | 38 | 9 | 341 |
-| last720d | 2024-11-11 | 24 | 518 | 5 | 67 | 15 | 519 |
+| 30d | 2026-10-03 | 4 | 13 | 0 | 5 | 1 | 13 |
+| last60d | 2026-09-03 | 4 | 41 | 1 | 9 | 3 | 37 |
+| 90d | 2026-08-04 | 6 | 80 | 1 | 14 | 3 | 76 |
+| last180d | 2026-05-06 | 15 | 184 | 3 | 22 | 5 | 179 |
+| 360d | 2025-11-07 | 20 | 343 | 3 | 39 | 8 | 343 |
+| last720d | 2024-11-12 | 24 | 520 | 5 | 68 | 14 | 521 |
 
 ## Release assets
 
@@ -109,7 +109,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **217** distros on [repology.org](https://repology.org/project/bottom). **3** are ✅ on the latest upstream release, **170** are ⚠️ on an older version.
+Reported by **218** distros on [repology.org](https://repology.org/project/bottom). **12** are ✅ on the latest upstream release, **161** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -117,7 +117,7 @@ Reported by **217** distros on [repology.org](https://repology.org/project/botto
 | Debian 14 | `0.14.9+~0.1.0` | ⚠️ outdated |
 | Debian 13 | `0.10.2+20250107` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.9.6` | ⚠️ outdated |
-| Arch | `0.14.9` | ⚠️ outdated |
+| Arch | `0.15.0` | ✅ latest |
 | Homebrew | `0.15.0` | ✅ latest |
 | Nix unstable | `0.14.9` | ⚠️ outdated |
 | Void | `0.12.3` | ⚠️ outdated |
@@ -133,4 +133,4 @@ Install metadata for bottom lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:04:17Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:06:15Z._
