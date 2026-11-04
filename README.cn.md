@@ -26,11 +26,11 @@ x install bottom
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.2 / 10**
+总评分: **6.3 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 3/27 approved changesets -- score normalized to 1
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
@@ -42,28 +42,28 @@ x install bottom
 
 ## 发布
 
-- **最新版本**: `nightly-4b6a033f-1793493908` (2026-11-01)
-- **最近提交**: 2026-11-03
+- **最新版本**: `nightly-cc6facab-1793766298` (2026-11-01)
+- **最近提交**: 2026-11-04
 - **Release 含资产**: 37 个
 
 ## 流行度
 
-- **Star**: 14,151 · **Fork**: 404 · **开放 issue**: 502 · **贡献者**: 91
+- **Star**: 14,154 · **Fork**: 404 · **开放 issue**: 503 · **贡献者**: 92
 
 ## 累计统计
 
-- **发布数**: 74 · **已合并 PR**: 1625 · **开放 PR**: 10 · **已关闭 issue**: 410 · **开放 issue**: 92 · **提交数**: 2674
+- **发布数**: 74 · **已合并 PR**: 1628 · **开放 PR**: 10 · **已关闭 issue**: 410 · **开放 issue**: 93 · **提交数**: 2677
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 4 | 17 | 0 | 6 | 1 | 17 |
-| last60d | 2026-09-04 | 4 | 43 | 1 | 11 | 2 | 41 |
-| 90d | 2026-08-05 | 6 | 84 | 1 | 16 | 2 | 80 |
-| last180d | 2026-05-07 | 15 | 187 | 3 | 24 | 4 | 183 |
-| 360d | 2025-11-08 | 20 | 347 | 3 | 42 | 6 | 347 |
-| last720d | 2024-11-13 | 24 | 524 | 5 | 71 | 12 | 525 |
+| 30d | 2026-10-05 | 4 | 20 | 0 | 6 | 2 | 20 |
+| last60d | 2026-09-05 | 4 | 44 | 1 | 11 | 3 | 44 |
+| 90d | 2026-08-06 | 6 | 84 | 1 | 16 | 3 | 83 |
+| last180d | 2026-05-08 | 15 | 185 | 3 | 24 | 5 | 186 |
+| 360d | 2025-11-09 | 20 | 350 | 3 | 42 | 7 | 350 |
+| last720d | 2024-11-14 | 24 | 524 | 5 | 71 | 13 | 528 |
 
 ## Release 资产
 
@@ -109,7 +109,7 @@ x install bottom
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/bottom) 上共有 **218** 个发行版报告此项目。**17** 个 ✅ 已是最新上游版本，**156** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/bottom) 上共有 **218** 个发行版报告此项目。**18** 个 ✅ 已是最新上游版本，**155** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -119,7 +119,7 @@ x install bottom
 | Ubuntu 24.04 LTS | `0.9.6` | ⚠️ outdated |
 | Arch | `0.15.0` | ✅ latest |
 | Homebrew | `0.15.0` | ✅ latest |
-| Nix unstable | `0.14.9` | ⚠️ outdated |
+| Nix unstable | `0.15.0` | ✅ latest |
 | Void | `0.12.3` | ⚠️ outdated |
 | Alpine edge | `0.14.8` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.14.7` | ⚠️ outdated |
@@ -133,4 +133,4 @@ bottom 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T06:49:01Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T06:18:08Z._
