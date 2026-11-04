@@ -2,8 +2,29 @@
   subrepo: terminal
   binname: bottom
   visiblename: bottom
-  version: 0.6.8
-  origversion: 0.6.8-1~ops2deb
+  version: 0.14.2
+  origversion: 0.14.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: freebsd
+  srcname: sysutils/bottom
+  binname: bottom
+  visiblename: sysutils/bottom
+  version: 0.15.0
+  origversion: null
+  status: newest
+  summary: Graphical process and system monitor
+  maintainers:
+    - adamw@freebsd.org
+  categories:
+    - sysutils
+- repo: wakemeops
+  subrepo: terminal
+  binname: bottom
+  visiblename: bottom
+  version: 0.14.1
+  origversion: 0.14.1-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -146,6 +167,15 @@
     - guddaff@protonmail.com
   licenses:
     - MIT
+- repo: wakemeops
+  subrepo: terminal
+  binname: bottom
+  visiblename: bottom
+  version: 0.14.8
+  origversion: 0.14.8-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: alpine_3_19
   subrepo: community
   srcname: bottom
@@ -562,6 +592,18 @@
     - guddaff@protonmail.com
   licenses:
     - MIT
+- repo: exherbo
+  subrepo: rust
+  srcname: sys-process/bottom
+  visiblename: sys-process/bottom
+  version: 0.15.0
+  origversion: null
+  status: newest
+  summary: A customizable cross-platform graphical system monitor for the terminal
+  maintainers:
+    - fallback-mnt-exherbo@repology
+  categories:
+    - sys-process
 - repo: alpine_edge
   subrepo: community
   srcname: bottom
@@ -815,17 +857,6 @@
     - dr@jones.dk
   categories:
     - misc
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: bottom
-  binname: bottom
-  visiblename: bottom
-  version: 0.9.6
-  origversion: 0.9.6-1
-  status: outdated
-  summary: A graphical process/system monitor
-  licenses:
-    - MIT
 - repo: debian_unstable
   subrepo: sid/main
   srcname: btm
@@ -852,30 +883,6 @@
     - dr@jones.dk
   categories:
     - misc
-- repo: exherbo
-  subrepo: rust
-  srcname: sys-process/bottom
-  visiblename: sys-process/bottom
-  version: 0.15.0
-  origversion: null
-  status: newest
-  summary: A customizable cross-platform graphical system monitor for the terminal
-  maintainers:
-    - fallback-mnt-exherbo@repology
-  categories:
-    - sys-process
-- repo: freebsd
-  srcname: sysutils/bottom
-  binname: bottom
-  visiblename: sysutils/bottom
-  version: 0.15.0
-  origversion: null
-  status: newest
-  summary: Graphical process and system monitor
-  maintainers:
-    - adamw@freebsd.org
-  categories:
-    - sysutils
 - repo: gentoo
   srcname: sys-process/bottom
   visiblename: sys-process/bottom
@@ -957,48 +964,6 @@
   status: outdated
   maintainers:
     - jslick@gmail.com
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: bottom
-  binname: bottom
-  visiblename: bottom
-  version: 0.9.6
-  origversion: 0.9.6-1
-  status: outdated
-  summary: A graphical process/system monitor
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: bottom
-  binname: bottom
-  visiblename: bottom
-  version: 0.14.9
-  origversion: 0.14.9-1
-  status: outdated
-  summary: A graphical process/system monitor
-  licenses:
-    - MIT
-- repo: msys2_clang64
-  srcname: mingw-w64-bottom
-  binname: mingw-w64-clang-x86_64-bottom
-  visiblename: mingw-w64-clang-x86_64-bottom
-  version: 0.15.0
-  origversion: 0.15.0-1
-  status: newest
-  summary: A graphical process/system monitor (mingw-w64)
-  licenses:
-    - spdx:MIT
-- repo: msys2_clangarm64
-  srcname: mingw-w64-bottom
-  binname: mingw-w64-clang-aarch64-bottom
-  visiblename: mingw-w64-clang-aarch64-bottom
-  version: 0.15.0
-  origversion: 0.15.0-1
-  status: newest
-  summary: A graphical process/system monitor (mingw-w64)
-  licenses:
-    - spdx:MIT
 - repo: liguros_stable
   srcname: sys-process/bottom
   visiblename: sys-process/bottom
@@ -1017,6 +982,40 @@
     - Unicode-DFS-2016
   categories:
     - sys-process
+- repo: msys2_ucrt64
+  srcname: mingw-w64-bottom
+  binname: mingw-w64-ucrt-x86_64-bottom
+  visiblename: mingw-w64-ucrt-x86_64-bottom
+  version: 0.15.0
+  origversion: 0.15.0-1
+  status: newest
+  summary: A graphical process/system monitor (mingw-w64)
+  licenses:
+    - spdx:MIT
+- repo: nix_stable_24_05
+  srcname: bottom
+  visiblename: bottom
+  version: 0.9.6
+  origversion: null
+  status: outdated
+  summary: A cross-platform graphical process/system monitor with a customizable interface
+  maintainers:
+    - nicolas@normie.dev
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: bottom
+  visiblename: bottom
+  version: 0.10.2
+  origversion: null
+  status: outdated
+  summary: Cross-platform graphical process/system monitor with a customizable interface
+  maintainers:
+    - nicolas@normie.dev
+    - figsoda@pm.me
+  licenses:
+    - MIT
 - repo: liguros_stable
   srcname: sys-process/bottom
   visiblename: sys-process/bottom
@@ -1086,40 +1085,68 @@
     - MIT
   categories:
     - sysutils
-- repo: msys2_ucrt64
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: bottom
+  binname: bottom
+  visiblename: bottom
+  version: 0.9.6
+  origversion: 0.9.6-1
+  status: outdated
+  summary: A graphical process/system monitor
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: bottom
+  binname: bottom
+  visiblename: bottom
+  version: 0.9.6
+  origversion: 0.9.6-1
+  status: outdated
+  summary: A graphical process/system monitor
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: bottom
+  binname: bottom
+  visiblename: bottom
+  version: 0.14.9
+  origversion: 0.14.9-1
+  status: outdated
+  summary: A graphical process/system monitor
+  licenses:
+    - MIT
+- repo: msys2_clang64
   srcname: mingw-w64-bottom
-  binname: mingw-w64-ucrt-x86_64-bottom
-  visiblename: mingw-w64-ucrt-x86_64-bottom
+  binname: mingw-w64-clang-x86_64-bottom
+  visiblename: mingw-w64-clang-x86_64-bottom
   version: 0.15.0
   origversion: 0.15.0-1
   status: newest
   summary: A graphical process/system monitor (mingw-w64)
   licenses:
     - spdx:MIT
-- repo: nix_stable_24_05
-  srcname: bottom
-  visiblename: bottom
-  version: 0.9.6
-  origversion: null
-  status: outdated
-  summary: A cross-platform graphical process/system monitor with a customizable interface
-  maintainers:
-    - nicolas@normie.dev
-    - figsoda@pm.me
+- repo: msys2_clangarm64
+  srcname: mingw-w64-bottom
+  binname: mingw-w64-clang-aarch64-bottom
+  visiblename: mingw-w64-clang-aarch64-bottom
+  version: 0.15.0
+  origversion: 0.15.0-1
+  status: newest
+  summary: A graphical process/system monitor (mingw-w64)
   licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: bottom
+    - spdx:MIT
+- repo: wakemeops
+  subrepo: terminal
+  binname: bottom
   visiblename: bottom
-  version: 0.10.2
-  origversion: null
-  status: outdated
-  summary: Cross-platform graphical process/system monitor with a customizable interface
+  version: 0.14.0
+  origversion: 0.14.0-1~ops2deb
+  status: legacy
   maintainers:
-    - nicolas@normie.dev
-    - figsoda@pm.me
-  licenses:
-    - MIT
+    - ops2deb@upciti.com
 - repo: nix_stable_25_05
   srcname: bottom
   visiblename: bottom
@@ -1160,9 +1187,9 @@
 - repo: nix_unstable
   srcname: bottom
   visiblename: bottom
-  version: 0.14.9
+  version: 0.15.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Cross-platform graphical process/system monitor with a customizable interface
   maintainers:
     - nicolas@normie.dev
@@ -1373,8 +1400,36 @@
     - MIT
 - repo: terra_41
   srcname: rust-bottom
-  binname: rust-bottom+starship-battery-devel
-  visiblename: rust-bottom+starship-battery-devel
+  binname: bottom
+  visiblename: bottom
+  version: 0.11.1
+  origversion: 0.11.1-1.fc41
+  status: outdated
+  summary: Customizable cross-platform graphical process/system monitor for the terminal
+  maintainers:
+    - git@ben.woods.am
+  licenses:
+    - (0BSD OR MIT OR Apache-2.0) AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR MIT OR Apache-2.0) AND ISC AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Zlib OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib AND (Zlib OR Apache-2.0 OR MIT)
+  categories:
+    - Unspecified
+- repo: terra_41
+  srcname: rust-bottom
+  binname: bottom-bash-completion
+  visiblename: bottom-bash-completion
+  version: 0.11.1
+  origversion: 0.11.1-1.fc41
+  status: outdated
+  summary: Bash completion for bottom
+  maintainers:
+    - git@ben.woods.am
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_41
+  srcname: rust-bottom
+  binname: rust-bottom+zfs-devel
+  visiblename: rust-bottom+zfs-devel
   version: 0.11.1
   origversion: 0.11.1-1.fc41
   status: outdated
@@ -1598,83 +1653,27 @@
     - Development/Debug
 - repo: terra_41
   srcname: rust-bottom
-  binname: rust-bottom+generate_schema-devel
-  visiblename: rust-bottom+generate_schema-devel
+  binname: bottom
+  visiblename: bottom
   version: 0.11.1
   origversion: 0.11.1-1.fc41
   status: outdated
-  summary: Zsh completion for bottom
+  summary: Customizable cross-platform graphical process/system monitor for the terminal
   maintainers:
     - git@ben.woods.am
   licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: terra_41
-  srcname: rust-bottom
-  binname: rust-bottom+strum-devel
-  visiblename: rust-bottom+strum-devel
-  version: 0.11.1
-  origversion: 0.11.1-1.fc41
-  status: outdated
-  summary: Zsh completion for bottom
-  maintainers:
-    - git@ben.woods.am
-  licenses:
-    - MIT
+    - (0BSD OR MIT OR Apache-2.0) AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR MIT OR Apache-2.0) AND ISC AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Zlib OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib AND (Zlib OR Apache-2.0 OR MIT)
   categories:
     - Unspecified
 - repo: wakemeops
   subrepo: terminal
   binname: bottom
   visiblename: bottom
-  version: 0.14.6
-  origversion: 0.14.6-1~ops2deb
+  version: 0.14.7
+  origversion: 0.14.7-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
-- repo: terra_41
-  srcname: rust-bottom
-  binname: bottom
-  visiblename: bottom
-  version: 0.11.1
-  origversion: 0.11.1-1.fc41
-  status: outdated
-  summary: Customizable cross-platform graphical process/system monitor for the terminal
-  maintainers:
-    - git@ben.woods.am
-  licenses:
-    - (0BSD OR MIT OR Apache-2.0) AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR MIT OR Apache-2.0) AND ISC AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Zlib OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib AND (Zlib OR Apache-2.0 OR MIT)
-  categories:
-    - Unspecified
-- repo: terra_41
-  srcname: rust-bottom
-  binname: bottom
-  visiblename: bottom
-  version: 0.11.1
-  origversion: 0.11.1-1.fc41
-  status: outdated
-  summary: Customizable cross-platform graphical process/system monitor for the terminal
-  maintainers:
-    - git@ben.woods.am
-  licenses:
-    - (0BSD OR MIT OR Apache-2.0) AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR MIT OR Apache-2.0) AND ISC AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Zlib OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib AND (Zlib OR Apache-2.0 OR MIT)
-  categories:
-    - Unspecified
-- repo: terra_41
-  srcname: rust-bottom
-  binname: bottom-bash-completion
-  visiblename: bottom-bash-completion
-  version: 0.11.1
-  origversion: 0.11.1-1.fc41
-  status: outdated
-  summary: Bash completion for bottom
-  maintainers:
-    - git@ben.woods.am
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
 - repo: terra_41
   srcname: rust-bottom
   binname: bottom-debuginfo
@@ -1789,6 +1788,20 @@
     - Unspecified
 - repo: terra_41
   srcname: rust-bottom
+  binname: rust-bottom+generate_schema-devel
+  visiblename: rust-bottom+generate_schema-devel
+  version: 0.11.1
+  origversion: 0.11.1-1.fc41
+  status: outdated
+  summary: Zsh completion for bottom
+  maintainers:
+    - git@ben.woods.am
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_41
+  srcname: rust-bottom
   binname: rust-bottom+gpu-devel
   visiblename: rust-bottom+gpu-devel
   version: 0.11.1
@@ -1885,15 +1898,34 @@
     - MIT
   categories:
     - Unspecified
-- repo: wakemeops
-  subrepo: terminal
-  binname: bottom
-  visiblename: bottom
-  version: 0.14.8
-  origversion: 0.14.8-1~ops2deb
-  status: legacy
+- repo: terra_41
+  srcname: rust-bottom
+  binname: rust-bottom+starship-battery-devel
+  visiblename: rust-bottom+starship-battery-devel
+  version: 0.11.1
+  origversion: 0.11.1-1.fc41
+  status: outdated
+  summary: Zsh completion for bottom
   maintainers:
-    - ops2deb@upciti.com
+    - git@ben.woods.am
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_41
+  srcname: rust-bottom
+  binname: rust-bottom+strum-devel
+  visiblename: rust-bottom+strum-devel
+  version: 0.11.1
+  origversion: 0.11.1-1.fc41
+  status: outdated
+  summary: Zsh completion for bottom
+  maintainers:
+    - git@ben.woods.am
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
 - repo: terra_41
   srcname: rust-bottom
   binname: rust-bottom+time-devel
@@ -1908,20 +1940,15 @@
     - MIT
   categories:
     - Unspecified
-- repo: terra_41
-  srcname: rust-bottom
-  binname: rust-bottom+zfs-devel
-  visiblename: rust-bottom+zfs-devel
-  version: 0.11.1
-  origversion: 0.11.1-1.fc41
-  status: outdated
-  summary: Zsh completion for bottom
+- repo: wakemeops
+  subrepo: terminal
+  binname: bottom
+  visiblename: bottom
+  version: 0.14.4
+  origversion: 0.14.4-1~ops2deb
+  status: legacy
   maintainers:
-    - git@ben.woods.am
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
+    - ops2deb@upciti.com
 - repo: terra_41
   srcname: rust-bottom
   binname: rust-bottom-debugsource
@@ -2118,15 +2145,6 @@
     - MIT
   categories:
     - Unspecified
-- repo: wakemeops
-  subrepo: terminal
-  binname: bottom
-  visiblename: bottom
-  version: 0.14.7
-  origversion: 0.14.7-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: terra_rawhide
   srcname: rust-bottom
   binname: rust-bottom+generate_schema-devel
@@ -2155,6 +2173,15 @@
     - MIT
   categories:
     - Unspecified
+- repo: wakemeops
+  subrepo: terminal
+  binname: bottom
+  visiblename: bottom
+  version: 0.14.3
+  origversion: 0.14.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: terra_rawhide
   srcname: rust-bottom
   binname: rust-bottom+log-devel
@@ -2424,53 +2451,17 @@
   subrepo: terminal
   binname: bottom
   visiblename: bottom
+  version: 0.14.6
+  origversion: 0.14.6-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: bottom
+  visiblename: bottom
   version: 0.14.5
   origversion: 0.14.5-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: bottom
-  visiblename: bottom
-  version: 0.14.4
-  origversion: 0.14.4-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: bottom
-  visiblename: bottom
-  version: 0.14.3
-  origversion: 0.14.3-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: bottom
-  visiblename: bottom
-  version: 0.14.2
-  origversion: 0.14.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: bottom
-  visiblename: bottom
-  version: 0.14.1
-  origversion: 0.14.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: bottom
-  visiblename: bottom
-  version: 0.14.0
-  origversion: 0.14.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -2687,6 +2678,15 @@
   visiblename: bottom
   version: 0.7.0
   origversion: 0.7.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: bottom
+  visiblename: bottom
+  version: 0.6.8
+  origversion: 0.6.8-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
