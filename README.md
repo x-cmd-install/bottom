@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,165 · **Forks**: 405 · **Open issues**: 503 · **Contributors**: 92
+- **Stars**: 14,165 · **Forks**: 402 · **Open issues**: 503 · **Contributors**: 92
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 4 | 20 | 0 | 5 | 2 | 20 |
-| last60d | 2026-09-08 | 4 | 42 | 1 | 10 | 3 | 44 |
-| 90d | 2026-08-09 | 6 | 83 | 1 | 16 | 3 | 83 |
-| last180d | 2026-05-11 | 15 | 183 | 3 | 24 | 5 | 186 |
-| 360d | 2025-11-12 | 20 | 347 | 3 | 42 | 7 | 350 |
-| last720d | 2024-11-17 | 24 | 524 | 5 | 71 | 12 | 525 |
+| 30d | 2026-10-09 | 4 | 20 | 0 | 5 | 2 | 20 |
+| last60d | 2026-09-09 | 4 | 42 | 1 | 10 | 3 | 44 |
+| 90d | 2026-08-10 | 6 | 83 | 1 | 16 | 3 | 83 |
+| last180d | 2026-05-12 | 15 | 182 | 3 | 24 | 5 | 186 |
+| 360d | 2025-11-13 | 20 | 345 | 3 | 42 | 7 | 350 |
+| last720d | 2024-11-18 | 24 | 523 | 5 | 70 | 12 | 525 |
 
 ## Release assets
 
@@ -109,11 +109,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **220** distros on [repology.org](https://repology.org/project/bottom). **28** are ✅ on the latest upstream release, **145** are ⚠️ on an older version.
+Reported by **220** distros on [repology.org](https://repology.org/project/bottom). **28** are ✅ on the latest upstream release, **144** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `0.14.9+~0.1.0` | ⚠️ outdated |
+| Debian unstable | `0.15.0+~0.1.0` | incorrect |
 | Debian 14 | `0.14.9+~0.1.0` | ⚠️ outdated |
 | Debian 13 | `0.10.2+20250107` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.9.6` | ⚠️ outdated |
@@ -133,4 +133,4 @@ Install metadata for bottom lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:00:00Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:06:02Z._
