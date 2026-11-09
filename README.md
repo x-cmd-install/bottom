@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,165 · **Forks**: 402 · **Open issues**: 503 · **Contributors**: 92
+- **Stars**: 14,169 · **Forks**: 402 · **Open issues**: 503 · **Contributors**: 92
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 4 | 20 | 0 | 5 | 2 | 20 |
-| last60d | 2026-09-09 | 4 | 42 | 1 | 10 | 3 | 44 |
-| 90d | 2026-08-10 | 6 | 83 | 1 | 16 | 3 | 83 |
-| last180d | 2026-05-12 | 15 | 182 | 3 | 24 | 5 | 186 |
-| 360d | 2025-11-13 | 20 | 345 | 3 | 42 | 7 | 350 |
-| last720d | 2024-11-18 | 24 | 523 | 5 | 70 | 12 | 525 |
+| 30d | 2026-10-10 | 4 | 20 | 0 | 5 | 2 | 20 |
+| last60d | 2026-09-10 | 4 | 40 | 1 | 10 | 3 | 36 |
+| 90d | 2026-08-11 | 6 | 83 | 1 | 16 | 3 | 77 |
+| last180d | 2026-05-13 | 15 | 181 | 3 | 24 | 5 | 180 |
+| 360d | 2025-11-14 | 20 | 345 | 3 | 42 | 7 | 331 |
+| last720d | 2024-11-19 | 24 | 523 | 5 | 70 | 12 | 524 |
 
 ## Release assets
 
@@ -109,7 +109,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **220** distros on [repology.org](https://repology.org/project/bottom). **28** are ✅ on the latest upstream release, **144** are ⚠️ on an older version.
+Reported by **220** distros on [repology.org](https://repology.org/project/bottom). **30** are ✅ on the latest upstream release, **142** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -133,4 +133,4 @@ Install metadata for bottom lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:06:02Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:15:15Z._
