@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1655877,
       "digest": "sha256:558100313a94c7f043b8aee9ee7391b8577a88031a7c90c48048a152f3ff25a3",
-      "download_count": 65,
+      "download_count": 74,
       "created_at": "2026-10-31T23:55:52Z",
       "updated_at": "2026-10-31T23:55:52Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom-0.15.0-1.x86_64.rpm"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1715633,
       "digest": "sha256:b6992ab06f0c354fd791aaed0884313079ac02ff7449ee461800b73eb59f76c2",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-10-31T23:55:51Z",
       "updated_at": "2026-10-31T23:55:52Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom-musl-0.15.0-1.x86_64.rpm"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1571228,
       "digest": "sha256:8285d40fe4cb62a331521f3edc35414256c04e6ff97dd41c6f415ee26bdc30ba",
-      "download_count": 120,
+      "download_count": 132,
       "created_at": "2026-10-31T23:55:51Z",
       "updated_at": "2026-10-31T23:55:52Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom-musl_0.15.0-1_amd64.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1386256,
       "digest": "sha256:f9e3fe65a317a4a0d5a19f9ceed284b668f920549cd15ab7450eb961e2c580e3",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-10-31T23:55:51Z",
       "updated_at": "2026-10-31T23:55:52Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom-musl_0.15.0-1_armhf.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 281,
       "digest": "sha256:96cf910d1a179f6a1112eded1cb9834f9cbcb29ef837ea07bd328d1ff9558340",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-10-31T23:55:52Z",
       "updated_at": "2026-10-31T23:55:52Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom.desktop"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1516576,
       "digest": "sha256:02aabca9cd9dd41d3fbf3642e96b5a7b266027fd0ba9eb78a96e4c5eeabcd8c8",
-      "download_count": 330,
+      "download_count": 361,
       "created_at": "2026-10-31T23:55:52Z",
       "updated_at": "2026-10-31T23:55:52Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_0.15.0-1_amd64.deb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1296112,
       "digest": "sha256:1b70cef7d66fedc6df227f85d34a4238d99f3e3800cfb3fd14bafb072b6dece9",
-      "download_count": 71,
+      "download_count": 78,
       "created_at": "2026-10-31T23:55:52Z",
       "updated_at": "2026-10-31T23:55:53Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_0.15.0-1_arm64.deb"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1750181,
       "digest": "sha256:6d83c9eba811dd139392fa5b04baa75225c6aa120dad36a070e636660db023fd",
-      "download_count": 968,
+      "download_count": 1052,
       "created_at": "2026-10-31T23:55:52Z",
       "updated_at": "2026-10-31T23:55:52Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_aarch64-apple-darwin.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1724760,
       "digest": "sha256:2cbf2ccc0ee85e826b40d453ff5a41192ee20f0b0d772ca526153cb5551ac75a",
-      "download_count": 31,
+      "download_count": 34,
       "created_at": "2026-10-31T23:55:52Z",
       "updated_at": "2026-10-31T23:55:53Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_aarch64-linux-android.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 1665463,
       "digest": "sha256:43d3f3bc1bbe4271847a431b5f4b9a03edd784a05826c83e185f605d719cb8f6",
-      "download_count": 30,
+      "download_count": 32,
       "created_at": "2026-10-31T23:55:53Z",
       "updated_at": "2026-10-31T23:55:53Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_aarch64-pc-windows-gnullvm.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1720113,
       "digest": "sha256:d59701b6c2791765cf1d88dbd21bfe21215ecde12575a1fd22cebf6560b4e5e1",
-      "download_count": 72,
+      "download_count": 74,
       "created_at": "2026-10-31T23:55:53Z",
       "updated_at": "2026-10-31T23:55:53Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_aarch64-pc-windows-msvc.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1901277,
       "digest": "sha256:93221c07d549750e5cfac2a76f70e5d792c744958ecc466bbeb9d3bef34288b6",
-      "download_count": 700,
+      "download_count": 749,
       "created_at": "2026-10-31T23:55:53Z",
       "updated_at": "2026-10-31T23:55:53Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_aarch64-unknown-linux-gnu.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1921724,
       "digest": "sha256:78e03e96d02e946be1f94066cd78f1adc3bb8c0db5f53fdf24d70a3ab351e05c",
-      "download_count": 296,
+      "download_count": 326,
       "created_at": "2026-10-31T23:55:53Z",
       "updated_at": "2026-10-31T23:55:54Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_aarch64-unknown-linux-musl.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1736704,
       "digest": "sha256:cdb824cd4eb33890472735f648a27208ef6ffd80c94b763ba7065a9e747227f6",
-      "download_count": 100,
+      "download_count": 107,
       "created_at": "2026-10-31T23:55:53Z",
       "updated_at": "2026-10-31T23:55:54Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_aarch64_installer.msi"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 2000316,
       "digest": "sha256:2c33bc52c56564460e2e54d56aa3ac872d8fc91134707ae55d4208b1bcb2ac8b",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-10-31T23:55:53Z",
       "updated_at": "2026-10-31T23:55:54Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_armv7-unknown-linux-musleabihf.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 1779946,
       "digest": "sha256:700c43ef60748ff16a78038cb0ef4bb1a936b069325137ab8b7ac95d2e922ffa",
-      "download_count": 61,
+      "download_count": 63,
       "created_at": "2026-10-31T23:55:54Z",
       "updated_at": "2026-10-31T23:55:54Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_i686-pc-windows-msvc.zip"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 1956064,
       "digest": "sha256:e52f7bacd1e793715b8c14862b3c15144de2548cc8cd9f33fed7b3178084ee24",
-      "download_count": 17,
+      "download_count": 19,
       "created_at": "2026-10-31T23:55:54Z",
       "updated_at": "2026-10-31T23:55:54Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_loongarch64-unknown-linux-gnu.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 1896126,
       "digest": "sha256:6a7f5e32fc2c272256ad5c77aa8aaede02e1e86cf3ba4715acb894d3d6d5b361",
-      "download_count": 361,
+      "download_count": 393,
       "created_at": "2026-10-31T23:55:54Z",
       "updated_at": "2026-10-31T23:55:55Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_x86_64-apple-darwin.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 1809106,
       "digest": "sha256:c837352b4fa218b2d45778b00f4fd0e949aba24eb1e69ae49e4e901432a88bdc",
-      "download_count": 116,
+      "download_count": 123,
       "created_at": "2026-10-31T23:55:54Z",
       "updated_at": "2026-10-31T23:55:55Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_x86_64-pc-windows-gnu.zip"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 1931891,
       "digest": "sha256:aeff72e355116516d2583f34348e31f60c5899e394a08eeda79a2bdb361e27bd",
-      "download_count": 2112,
+      "download_count": 2239,
       "created_at": "2026-10-31T23:55:54Z",
       "updated_at": "2026-10-31T23:55:55Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_x86_64-pc-windows-msvc.zip"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 2073713,
       "digest": "sha256:8f13d0edf167d1772cd1252c1f5d87c8c7203e48f29af60a84d21c9d7243a796",
-      "download_count": 137,
+      "download_count": 173,
       "created_at": "2026-10-31T23:55:55Z",
       "updated_at": "2026-10-31T23:55:55Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_x86_64-unknown-linux-gnu-2-17.tar.gz"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 2064072,
       "digest": "sha256:051888e0e064aa037728efed3fcf77820714f8f4dc7bea2b0179d40c54400c26",
-      "download_count": 3059,
+      "download_count": 3317,
       "created_at": "2026-10-31T23:55:55Z",
       "updated_at": "2026-10-31T23:55:55Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_x86_64-unknown-linux-gnu.tar.gz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 2138443,
       "digest": "sha256:c66d6a0148102f107800919cd0ff6cce8767ae998f3c954b72e37a7f769e3ae2",
-      "download_count": 1098,
+      "download_count": 1208,
       "created_at": "2026-10-31T23:55:55Z",
       "updated_at": "2026-10-31T23:55:55Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_x86_64-unknown-linux-musl.tar.gz"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 1986671,
       "digest": "sha256:8631ee2b8727c5e0902155f4ea27eb1d3ddbc99e4cb376a662a2a9533fdc4320",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-10-31T23:55:55Z",
       "updated_at": "2026-10-31T23:55:56Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_x86_64-unknown-netbsd.tar.gz"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 1912832,
       "digest": "sha256:f2988c4695a10b29e7f507564f308ecfb0221f5b0c87f6431af54894325cd815",
-      "download_count": 2058,
+      "download_count": 2181,
       "created_at": "2026-10-31T23:55:55Z",
       "updated_at": "2026-10-31T23:55:55Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_x86_64_installer.msi"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 8019,
       "digest": "sha256:a257001464e30b51c426b24f371f94fa6dd7f8b35ad66fa04b7203122bf24cdb",
-      "download_count": 45,
+      "download_count": 46,
       "created_at": "2026-10-31T23:55:56Z",
       "updated_at": "2026-10-31T23:55:56Z",
       "browser_download_url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/completion.tar.gz"
@@ -1374,13 +1374,13 @@
   "body": "Happy Halloween! 🎃 Should be nothing spooky about this release though (hopefully).\r\n\r\nMainly releasing this to get some bug fixes out, particularly to address problems running on older versions of Windows. There's still also a bunch of new features though, from solid bar support in styling, initial Intel GPU support in Linux, more configuration for disk widgets, and swap process columns. The Windows MSI has also been improved, and we now build GNU targets for Windows ARM. Thanks to all that contributed to this release!\r\n\r\n---\r\n\r\n## Features\r\n\r\n- [#2239](https://github.com/ClementTsang/bottom/pull/2239): Initial Intel GPU support for Linux to get process GPU usage.\r\n- [#2245](https://github.com/ClementTsang/bottom/pull/2245): Support solid bars using block and square characters via `styles.widgets.bar_type`.\r\n- [#2236](https://github.com/ClementTsang/bottom/pull/2236): Add configurable binary disk capacity units for disk widget usage (thanks @pederbe!).\r\n- [#2251](https://github.com/ClementTsang/bottom/pull/2251): Add configurable binary disk capacity units for disk widget I/O.\r\n- [#2224](https://github.com/ClementTsang/bottom/pull/2224): Add swap column for processes for Linux (thanks @abuhurayraniloy!).\r\n\r\n## Changes\r\n\r\n- [#2260](https://github.com/ClementTsang/bottom/pull/2260): Enable scrollbars by default.\r\n- [#2266](https://github.com/ClementTsang/bottom/pull/2266): Show decimal places for disk usage info.\r\n\r\n## Bug Fixes\r\n\r\n- [#2225](https://github.com/ClementTsang/bottom/pull/2225): Fix waking up NVIDIA GPUs when getting stats on Linux.\r\n- [#2261](https://github.com/ClementTsang/bottom/pull/2261): Fix scrollbars not drawing when height of bar was 2 or less.\r\n- [#2279](https://github.com/ClementTsang/bottom/pull/2279): Fix an abort (SIGABRT) if the terminal is gone when exiting (thanks @NavpreetSSidhu!).\r\n- [#2284](https://github.com/ClementTsang/bottom/pull/2284): Fix bracketed paste not being supported on Windows 7/8 causing btm to panic on startup.\r\n- [#2293](https://github.com/ClementTsang/bottom/pull/2293): Fix older Windows compatibility by disabling the underline feature in ratatui.\r\n\r\n## Other\r\n\r\n- [#2227](https://github.com/ClementTsang/bottom/pull/2227): Add missing documentation around disk I/O graph (thanks @NavpreetSSidhu!).\r\n- [#2233](https://github.com/ClementTsang/bottom/pull/2233): Add user-level installation scope for Windows MSI installer.\r\n- [#2237](https://github.com/ClementTsang/bottom/pull/2237): Use `WixUI_Advanced` for better installation scope selection in Windows MSI installer.\r\n- [#2290](https://github.com/ClementTsang/bottom/pull/2290): Add Windows aarch64-gnullvm build target.\r\n\r\n---\r\n\r\n## New Contributors\r\n* @pederbe made their first contribution in https://github.com/ClementTsang/bottom/pull/2236\r\n* @abuhurayraniloy made their first contribution in https://github.com/ClementTsang/bottom/pull/2224\r\n* @NavpreetSSidhu made their first contribution in https://github.com/ClementTsang/bottom/pull/2279\r\n\r\n**Full Changelog**: https://github.com/ClementTsang/bottom/compare/0.14.9...0.15.0",
   "reactions": {
     "url": "https://api.github.com/repos/ClementTsang/bottom/releases/430258765/reactions",
-    "total_count": 5,
+    "total_count": 6,
     "+1": 3,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 2,
+    "heart": 3,
     "rocket": 0,
     "eyes": 0
   },
