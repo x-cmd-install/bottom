@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly-e0f4d211-1794443957` (2026-11-01)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-13
 - **Assets in release**: 37
 
 ## Popularity
 
-- **Stars**: 14,189 · **Forks**: 402 · **Open issues**: 504 · **Contributors**: 93
+- **Stars**: 14,198 · **Forks**: 402 · **Open issues**: 504 · **Contributors**: 93
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 1636 · **Open PRs**: 10 · **Closed issues**: 412 · **Open issues**: 92 · **Commits**: 2686
+- **Releases**: 74 · **Merged PRs**: 1638 · **Open PRs**: 9 · **Closed issues**: 412 · **Open issues**: 92 · **Commits**: 2689
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 4 | 27 | 1 | 6 | 2 | 29 |
-| last60d | 2026-09-13 | 4 | 45 | 1 | 12 | 2 | 45 |
-| 90d | 2026-08-14 | 5 | 85 | 1 | 15 | 2 | 86 |
-| last180d | 2026-05-16 | 15 | 187 | 3 | 26 | 4 | 189 |
-| 360d | 2025-11-17 | 19 | 336 | 3 | 44 | 6 | 340 |
-| last720d | 2024-11-22 | 24 | 531 | 5 | 71 | 11 | 533 |
+| 30d | 2026-10-14 | 4 | 29 | 0 | 6 | 2 | 32 |
+| last60d | 2026-09-14 | 4 | 46 | 0 | 12 | 2 | 48 |
+| 90d | 2026-08-15 | 5 | 86 | 0 | 15 | 2 | 89 |
+| last180d | 2026-05-17 | 15 | 188 | 2 | 26 | 4 | 192 |
+| 360d | 2025-11-18 | 19 | 338 | 2 | 44 | 6 | 343 |
+| last720d | 2024-11-23 | 24 | 533 | 4 | 70 | 11 | 536 |
 
 ## Release assets
 
@@ -109,7 +109,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **220** distros on [repology.org](https://repology.org/project/bottom). **31** are ✅ on the latest upstream release, **140** are ⚠️ on an older version.
+Reported by **220** distros on [repology.org](https://repology.org/project/bottom). **31** are ✅ on the latest upstream release, **139** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -133,4 +133,4 @@ Install metadata for bottom lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:19:52Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:34:03Z._
