@@ -14,19 +14,19 @@ x install bottom
 
 ## Code insight
 
-Total: **47,626** lines of code across **248** files in the top 5 languages.
+Total: **47,363** lines of code across **248** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 32,625 | 1,568 | 4,769 | 179 |
-| Json | 13,769 | 0 | 0 | 10 |
+| Rust | 32,663 | 1,567 | 4,777 | 179 |
+| Json | 13,468 | 0 | 0 | 10 |
 | Toml | 640 | 446 | 220 | 53 |
 | Yaml | 195 | 11 | 7 | 2 |
 | Python | 157 | 6 | 35 | 4 |
 
 ## OpenSSF Scorecard
 
-Overall score: **6.3 / 10**
+Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `nightly-99d586a1-1794557057` (2026-11-01)
-- **Last commit**: 2026-11-15
+- **Latest**: `nightly-cb86dc03-1794818405` (2026-11-01)
+- **Last commit**: 2026-11-17
 - **Assets in release**: 37
 
 ## Popularity
 
-- **Stars**: 14,195 · **Forks**: 401 · **Open issues**: 506 · **Contributors**: 93
+- **Stars**: 14,199 · **Forks**: 402 · **Open issues**: 506 · **Contributors**: 93
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 1642 · **Open PRs**: 8 · **Closed issues**: 412 · **Open issues**: 94 · **Commits**: 2693
+- **Releases**: 74 · **Merged PRs**: 1644 · **Open PRs**: 8 · **Closed issues**: 413 · **Open issues**: 93 · **Commits**: 2695
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 4 | 33 | 0 | 6 | 4 | 36 |
-| last60d | 2026-09-17 | 4 | 46 | 0 | 12 | 4 | 43 |
-| 90d | 2026-08-18 | 5 | 87 | 0 | 15 | 4 | 87 |
-| last180d | 2026-05-20 | 15 | 186 | 2 | 26 | 6 | 187 |
-| 360d | 2025-11-21 | 19 | 342 | 2 | 44 | 8 | 342 |
-| last720d | 2024-11-26 | 24 | 537 | 4 | 70 | 13 | 540 |
+| 30d | 2026-10-18 | 4 | 35 | 0 | 6 | 4 | 38 |
+| last60d | 2026-09-18 | 4 | 48 | 0 | 11 | 4 | 45 |
+| 90d | 2026-08-19 | 5 | 89 | 0 | 15 | 4 | 89 |
+| last180d | 2026-05-21 | 15 | 188 | 2 | 26 | 6 | 189 |
+| 360d | 2025-11-22 | 19 | 344 | 2 | 44 | 8 | 344 |
+| last720d | 2024-11-27 | 24 | 539 | 4 | 70 | 13 | 542 |
 
 ## Release assets
 
@@ -133,4 +133,4 @@ Install metadata for bottom lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:28:17Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:07:50Z._
