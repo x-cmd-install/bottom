@@ -42,28 +42,28 @@ x install bottom
 
 ## 发布
 
-- **最新版本**: `nightly-87cb33dc-1795580943` (2026-11-01)
-- **最近提交**: 2026-11-24
+- **最新版本**: `nightly-f992f56d-1795653422` (2026-11-01)
+- **最近提交**: 2026-11-26
 - **Release 含资产**: 37 个
 
 ## 流行度
 
-- **Star**: 14,271 · **Fork**: 402 · **开放 issue**: 506 · **贡献者**: 94
+- **Star**: 14,286 · **Fork**: 403 · **开放 issue**: 506 · **贡献者**: 94
 
 ## 累计统计
 
-- **发布数**: 74 · **已合并 PR**: 1658 · **开放 PR**: 7 · **已关闭 issue**: 418 · **开放 issue**: 88 · **提交数**: 2708
+- **发布数**: 74 · **已合并 PR**: 1660 · **开放 PR**: 8 · **已关闭 issue**: 418 · **开放 issue**: 88 · **提交数**: 2710
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 4 | 47 | 0 | 4 | 3 | 44 |
-| last60d | 2026-09-26 | 4 | 55 | 0 | 7 | 4 | 54 |
-| 90d | 2026-08-27 | 5 | 86 | 0 | 14 | 4 | 87 |
-| last180d | 2026-05-29 | 15 | 196 | 2 | 27 | 4 | 200 |
-| 360d | 2025-11-30 | 19 | 348 | 2 | 44 | 7 | 351 |
-| last720d | 2024-12-05 | 24 | 540 | 3 | 70 | 12 | 545 |
+| 30d | 2026-10-27 | 4 | 45 | 1 | 4 | 3 | 0 |
+| last60d | 2026-09-27 | 4 | 57 | 1 | 7 | 4 | 0 |
+| 90d | 2026-08-28 | 4 | 86 | 1 | 14 | 4 | 0 |
+| last180d | 2026-05-30 | 15 | 198 | 3 | 27 | 4 | 0 |
+| 360d | 2025-12-01 | 19 | 348 | 3 | 44 | 7 | 0 |
+| last720d | 2024-12-06 | 24 | 542 | 4 | 70 | 12 | 545 |
 
 ## Release 资产
 
@@ -107,23 +107,6 @@ x install bottom
 | [completion.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.15.0/completion.tar.gz) | 7.8 KiB | `native/unknown` |
 | [manpage.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.15.0/manpage.tar.gz) | 3.4 KiB | `native/unknown` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/bottom) 上共有 **221** 个发行版报告此项目。**37** 个 ✅ 已是最新上游版本，**132** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `0.15.0+~0.1.0` | incorrect |
-| Debian 14 | `0.15.0+~0.1.0` | incorrect |
-| Debian 13 | `0.10.2+20250107` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.9.6` | ⚠️ outdated |
-| Arch | `0.15.0` | ✅ latest |
-| Homebrew | `0.15.0` | ✅ latest |
-| Nix unstable | `0.15.0` | ✅ latest |
-| Void | `0.12.3` | ⚠️ outdated |
-| Alpine edge | `0.15.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.15.0` | ✅ latest |
-
 ## 改进这些数据
 
 bottom 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `bottom` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -133,4 +116,4 @@ bottom 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T08:22:16Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T08:25:35Z._

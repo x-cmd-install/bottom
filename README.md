@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `nightly-87cb33dc-1795580943` (2026-11-01)
-- **Last commit**: 2026-11-24
+- **Latest**: `nightly-f992f56d-1795653422` (2026-11-01)
+- **Last commit**: 2026-11-26
 - **Assets in release**: 37
 
 ## Popularity
 
-- **Stars**: 14,271 · **Forks**: 402 · **Open issues**: 506 · **Contributors**: 94
+- **Stars**: 14,286 · **Forks**: 403 · **Open issues**: 506 · **Contributors**: 94
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 1658 · **Open PRs**: 7 · **Closed issues**: 418 · **Open issues**: 88 · **Commits**: 2708
+- **Releases**: 74 · **Merged PRs**: 1660 · **Open PRs**: 8 · **Closed issues**: 418 · **Open issues**: 88 · **Commits**: 2710
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 4 | 47 | 0 | 4 | 3 | 44 |
-| last60d | 2026-09-26 | 4 | 55 | 0 | 7 | 4 | 54 |
-| 90d | 2026-08-27 | 5 | 86 | 0 | 14 | 4 | 87 |
-| last180d | 2026-05-29 | 15 | 196 | 2 | 27 | 4 | 200 |
-| 360d | 2025-11-30 | 19 | 348 | 2 | 44 | 7 | 351 |
-| last720d | 2024-12-05 | 24 | 540 | 3 | 70 | 12 | 545 |
+| 30d | 2026-10-27 | 4 | 45 | 1 | 4 | 3 | 0 |
+| last60d | 2026-09-27 | 4 | 57 | 1 | 7 | 4 | 0 |
+| 90d | 2026-08-28 | 4 | 86 | 1 | 14 | 4 | 0 |
+| last180d | 2026-05-30 | 15 | 198 | 3 | 27 | 4 | 0 |
+| 360d | 2025-12-01 | 19 | 348 | 3 | 44 | 7 | 0 |
+| last720d | 2024-12-06 | 24 | 542 | 4 | 70 | 12 | 545 |
 
 ## Release assets
 
@@ -107,23 +107,6 @@ Lowest-scoring checks:
 | [completion.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.15.0/completion.tar.gz) | 7.8 KiB | `native/unknown` |
 | [manpage.tar.gz](https://github.com/ClementTsang/bottom/releases/download/0.15.0/manpage.tar.gz) | 3.4 KiB | `native/unknown` |
 
-## Distribution status
-
-Reported by **221** distros on [repology.org](https://repology.org/project/bottom). **37** are ✅ on the latest upstream release, **132** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.15.0+~0.1.0` | incorrect |
-| Debian 14 | `0.15.0+~0.1.0` | incorrect |
-| Debian 13 | `0.10.2+20250107` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.9.6` | ⚠️ outdated |
-| Arch | `0.15.0` | ✅ latest |
-| Homebrew | `0.15.0` | ✅ latest |
-| Nix unstable | `0.15.0` | ✅ latest |
-| Void | `0.12.3` | ⚠️ outdated |
-| Alpine edge | `0.15.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.15.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for bottom lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `bottom` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -133,4 +116,4 @@ Install metadata for bottom lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:22:16Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:25:32Z._
